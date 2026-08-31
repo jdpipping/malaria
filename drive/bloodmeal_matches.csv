@@ -1,0 +1,1123 @@
+bloodmeal_id,match,human_id,multisource,m_hh,h_hh,m_village,h_village,collection_date,species,abdominal_status,m_building,moz_head_pf_status,moz_head_pf_density,h_building,match_type
+K05_00141,yes,K05_3,No,K05,K05,K,K,8/31/20,An. gambiae SS,Freshly fed,main,NA,NA,kitchen,Same household
+M13_00124,no,NA,No,M13,NA,M,NA,3/23/21,An. funestus,Freshly fed,simba,negative,NA,NA,No match
+M07_00436,yes,M07_2,No,M07,M07,M,M,4/20/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M07_00438,yes,M07_7,Yes,M07,M07,M,M,4/20/21,An. gambiae SS,Freshly fed,main,positive,4.124359e-5,main,Same building
+M07_00438,yes,M07_10,Yes,M07,M07,M,M,4/20/21,An. gambiae SS,Freshly fed,main,positive,4.124359e-5,main,Same building
+K02_00188,yes,K02_5,No,K02,K02,K,K,5/17/21,An. gambiae SS,Freshly fed,simba1,negative,NA,simba,Same household
+M17_00129,no,NA,No,M17,NA,M,NA,6/15/21,Undetermined,Freshly fed,simba,positive,3.29543545e-4,NA,No match
+M05_00109,yes,M05_3,No,M05,M05,M,M,2/23/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M16_00194,yes,M16_5,No,M16,M16,M,M,5/25/21,Undetermined,Freshly fed,main,NA,NA,main,Same building
+K13_00158,yes,K16_4,No,K13,K16,K,K,5/24/21,An. arabiensis,Freshly fed,main,positive,0.002112211,main,Same village
+M01_0411,yes,M01_6,No,M01,M01,M,M,6/22/21,An. funestus,Freshly fed,main,positive,0.002889383,main,Same building
+S13_00023,yes,S13_5,Yes,S13,S13,S,S,5/26/21,An. gambiae SS,Freshly fed,main,positive,0.008327116,main,Same building
+K07_00111,no,NA,No peaks,K07,NA,K,NA,5/17/21,An. arabiensis,Freshly fed,main,negative,NA,NA,No match
+M07_0578,yes,M07_10,No,M07,M07,M,M,6/15/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M09_0409,yes,M09_13,No,M09,M09,M,M,5/18/21,An. gambiae SS,Freshly fed,main,negative,NA,kitchen,Same household
+M01_00174,no,NA,No,M01,NA,M,NA,3/16/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+M17_00046,no,NA,No peaks,M17,NA,M,NA,2/16/21,An. funestus,Freshly fed,simba,negative,NA,NA,No match
+S16_00007,yes,S16_6,No,S16,S16,S,S,7/8/20,An. gambiae SS,Freshly fed,simba,negative,NA,simba,Same building
+M09_0450,no,NA,No,M09,NA,M,NA,6/15/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+N14_00013,yes,N14_3,No,N14,N14,N,N,5/27/21,An. gambiae SS,Freshly fed,simba,negative,NA,kitchen,Same household
+S06_00045,yes,S06_6,No,S06,S06,S,S,7/22/20,An. gambiae SS,Freshly fed,kitchen,negative,NA,main,Same household
+K13_00169,yes,K16_4,No,K13,K16,K,K,5/24/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same village
+L14_00004,no,NA,No peaks,L14,NA,L,NA,7/2/21,An. demeilloni,Freshly fed,main,negative,NA,NA,No match
+S03_00024,no,NA,No peaks,S03,NA,S,NA,7/21/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+L08_00012,yes,L08_5,Yes,L08,L08,L,L,3/26/21,An. funestus,Freshly fed,simba,positive,0.004634936,simba,Same building
+L08_00012,yes,L08_2,Yes,L08,L08,L,L,3/26/21,An. funestus,Freshly fed,simba,positive,0.004634936,main,Same household
+K13_00181,yes,K13_3,Yes,K13,K13,K,K,5/24/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M03_00128,no,NA,No peaks,M03,NA,M,NA,5/25/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M07_00417,yes,M07_1,Yes,M07,M07,M,M,2/16/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M17_00015,yes,M17_4,No,M17,M17,M,M,12/1/20,An. funestus,Freshly fed,main,positive,1.3317833e-5,simba,Same household
+S10_00085,yes,S02_5,No,S10,S02,S,S,5/26/21,An. gambiae SS,Freshly fed,simba,NA,NA,main,Same village
+K13_00074,no,NA,No peaks,K13,NA,K,NA,10/26/20,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M03_00181,yes,M03_1,No,M03,M03,M,M,6/29/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+K05_00325,yes,K05_3,No,K05,K05,K,K,6/14/21,An. gambiae SS,Freshly fed,main,negative,NA,kitchen,Same household
+M01_00334,yes,M01_5,No,M01,M01,M,M,6/15/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M01_00397,no,NA,No,M01,NA,M,NA,6/22/21,Undetermined,Freshly fed,main,negative,NA,NA,No match
+K02_00143,yes,K02_10,No,K02,K02,K,K,11/23/20,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M09_00542,yes,M09_13,No,M09,M09,M,M,8/31/21,An. funestus,Freshly fed,main,positive,0.001727786,kitchen,Same household
+M09_0448,yes,M09_4,No,M09,M09,M,M,6/15/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M06_0217,yes,M06_2,Yes,M06,M06,M,M,6/29/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M06_0217,yes,M06_5,Yes,M06,M06,M,M,6/29/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+K13_00167,no,NA,No peaks,K13,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+L18_00002,no,NA,No peaks,L18,NA,L,NA,1/15/21,An. demeilloni,Freshly fed,main,negative,NA,NA,No match
+M09_XX358,no,NA,No,M09,NA,M,NA,NA,NA,NA,NA,NA,NA,NA,No match
+N04_00005,no,NA,No peaks,N04,NA,N,NA,11/12/20,An. funestus,Freshly fed,main,negative,NA,NA,No match
+M06_0199,yes,M06_1,No,M06,M06,M,M,6/22/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M17_00147,no,NA,No peaks,M17,NA,M,NA,6/15/21,An. funestus,Freshly fed,simba,positive,0.003825372,NA,No match
+M06_0189,yes,M06_3,No,M06,M06,M,M,6/15/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M16_00371,yes,M16_5,No,M16,M16,M,M,7/27/21,An. funestus,Freshly fed,main,positive,0.002325662,main,Same building
+S01_00116,yes,S01_6,No,S01,S01,S,S,5/26/21,An. gambiae SS,Freshly fed,main,NA,NA,kitchen,Same household
+S14_00025,yes,S14_7,No,S14,S14,S,S,12/16/20,An. gambiae SS,Freshly fed,simba,negative,NA,simba,Same building
+M16_00262,no,NA,No peaks,M16,NA,M,NA,6/15/21,Undetermined,Freshly fed,main,negative,NA,NA,No match
+M01_00333,no,NA,No,M01,NA,M,NA,6/15/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+M07_0617,no,NA,No,M07,NA,M,NA,7/27/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+K03_00096,no,NA,No,K03,NA,K,NA,5/17/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,NA,No match
+M17_00057,yes,M17_4,No,M17,M17,M,M,2/23/21,An. funestus,Freshly fed,simba,positive,1.9104331e-5,simba,Same building
+N13_00011,yes,N06_6,No,N13,N06,N,N,2/25/21,An. funestus,Freshly fed,main,negative,NA,main,Same village
+K13_00117,yes,K13_15-K16_3,No,K13,K13,K,K,5/17/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,Same household
+K13_00168,no,NA,No peaks,K13,NA,K,NA,5/24/21,Undetermined,Freshly fed,main,negative,NA,NA,No match
+L04_00013,no,NA,No peaks,L04,NA,L,NA,7/9/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+M07_0453,no,NA,No peaks,M07,NA,M,NA,4/20/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+K15_00035,yes,K15_1,No,K15,K15,K,K,6/14/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+K02_00237,yes,K02_5,No,K02,K02,K,K,6/28/21,An. gambiae SS,Freshly fed,simba1,negative,NA,simba,Same household
+K02_00142,yes,K02_5,No,K02,K02,K,K,11/23/20,An. funestus,Freshly fed,main,negative,NA,simba,Same household
+M16_00191,yes,M16_4,Yes,M16,M16,M,M,5/25/21,Undetermined,Freshly fed,main,negative,NA,main,Same building
+M17_00018,yes,M17_4,No,M17,M17,M,M,1/5/21,An. funestus,Freshly fed,simba,positive,3.2420171e-6,simba,Same building
+M17_00159,no,NA,No,M17,NA,M,NA,6/22/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M09_00470,yes,M09_7,Yes,M09,M09,M,M,6/29/21,An. funestus,Freshly fed,kitchen,positive,0.004124855,kitchen,Same building
+M09_00470,yes,M09_13,Yes,M09,M09,M,M,6/29/21,An. funestus,Freshly fed,kitchen,positive,0.004124855,kitchen,Same building
+S02_00137,yes,S02_7,No,S02,S02,S,S,6/16/21,An. gambiae SS,Freshly fed,main,negative,NA,other,Same household
+M06_0196,yes,M06_1,No,M06,M06,M,M,6/22/21,Undetermined,Freshly fed,main,negative,NA,main,Same building
+M17_00059,yes,M17_3,No,M17,M17,M,M,2/23/21,An. funestus,Freshly fed,simba,negative,NA,simba,Same building
+M07_0547,no,NA,No peaks,M07,NA,M,NA,5/25/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+S04_00121,no,NA,No peaks,S04,NA,S,NA,6/16/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M07_00439,no,NA,No,M07,NA,M,NA,4/20/21,An. gambiae SS,Freshly fed,main,positive,2.3161926e-6,NA,No match
+S14_00067,no,NA,No peaks,S14,NA,S,NA,5/26/21,Undetermined,Freshly fed,simba,negative,NA,NA,No match
+K01_00196,no,NA,No peaks,K01,NA,K,NA,6/14/21,An. funestus,Freshly fed,main,positive,0.001180665,NA,No match
+M17_00096,yes,M17_4,No,M17,M17,M,M,5/18/21,An. gambiae SS,Freshly fed,simba,positive,1.17461015e-4,simba,Same building
+M16_00148,yes,M16_6,Yes,M16,M16,M,M,4/20/21,An. gambiae SS,Freshly fed,simba,NA,NA,simba,Same building
+M17_00184,yes,M17_5,No,M17,M17,M,M,8/24/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M18_00002,yes,M18_2,No,M18,M18,M,M,4/20/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+N11_00020,yes,N11_22,No,N11,N11,N,N,6/3/21,An. funestus,Freshly fed,main,positive,1.5929081e-4,NA,Same household
+K07_00096,yes,K07_5,No,K07,K07,K,K,10/5/20,An. funestus,Freshly fed,main,negative,NA,kitchen,Same household
+K13_00098,yes,K16_5,No,K13,K16,K,K,4/26/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same village
+M03_00139,no,NA,No,M03,NA,M,NA,5/25/21,An. gambiae SS,Freshly fed,main,NA,NA,NA,No match
+M16_00114,yes,M16_5,No,M16,M16,M,M,1/26/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M16_00193,yes,M16_4,No,M16,M16,M,M,5/25/21,Undetermined,Freshly fed,main,NA,NA,main,Same building
+S04_00124,yes,S04_6,No,S04,S04,S,S,6/16/21,An. gambiae SS,Freshly fed,main,positive,7.132005e-4,main,Same building
+K05_00323,no,NA,No peaks,K05,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,NA,No match
+M16_00325,no,NA,No peaks,M16,NA,M,NA,6/22/21,An. funestus,Freshly fed,main,positive,0.001811447,NA,No match
+M16_00330,yes,M16_5,Yes,M16,M16,M,M,6/22/21,An. funestus,Freshly fed,main,positive,0.005345019,main,Same building
+M16_00330,yes,M16_8,Yes,M16,M16,M,M,6/22/21,An. funestus,Freshly fed,main,positive,0.005345019,main,Same building
+N09_00004,yes,N09_9,No,N09,N09,N,N,9/3/20,An. funestus,Freshly fed,simba,negative,NA,simba,Same building
+M01_00340,yes,M01_5,No,M01,M01,M,M,6/15/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+N14_00024,yes,N14_3,No,N14,N14,N,N,5/27/21,An. gambiae SS,Freshly fed,simba,negative,NA,kitchen,Same household
+N14_00021,yes,N14_3,No,N14,N14,N,N,5/27/21,An. arabiensis,Freshly fed,simba,NA,NA,kitchen,Same household
+K13_00178,no,NA,No peaks,K13,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+N13_00040,yes,N13_5,No,N13,N13,N,N,5/27/21,An. gambiae SL,Freshly fed,simba1,positive,6.5522975e-4,simba,Same household
+M05_00099,no,NA,No peaks,M05,NA,M,NA,1/19/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+K13_00124,no,NA,No peaks,K13,NA,K,NA,5/17/21,An. gambiae SS,Freshly fed,main,positive,0.001951079,NA,No match
+M17_00017,yes,M17_3,No,M17,M17,M,M,1/5/21,An. funestus,Freshly fed,simba,negative,NA,simba,Same building
+N11_00010,yes,N11_2,Yes,N11,N11,N,N,5/6/21,An. funestus,Freshly fed,main,NA,NA,kitchen,Same household
+N11_00010,yes,N11_12,Yes,N11,N11,N,N,5/6/21,An. funestus,Freshly fed,main,NA,NA,main,Same building
+S02_00136,no,NA,No peaks,S02,NA,S,NA,6/16/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M01_00349,yes,M01_5,Yes,M01,M01,M,M,6/15/21,An. gambiae SS,Freshly fed,main,positive,0.001437614,main,Same building
+M01_00349,yes,N04_5,Yes,M01,N04,M,N,6/15/21,An. gambiae SS,Freshly fed,main,positive,0.001437614,simba2,Different villages
+L09_00009,yes,L09_6,No,L09,L09,L,L,3/26/21,An. funestus,Freshly fed,simba,negative,NA,simba,Same building
+L11_00005,no,NA,No,L11,NA,L,NA,6/25/21,An. demeilloni,Freshly fed,main,negative,NA,NA,No match
+L17_00001,no,NA,No peaks,L17,NA,L,NA,3/26/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+K12_00173,yes,K12_4,No,K12,K12,K,K,8/30/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+N04_00010,yes,N04_6,No,N04,N04,N,N,3/25/21,An. funestus,Freshly fed,simba,negative,NA,simba,Same building
+M17_00117,yes,M17_4,No,M17,M17,M,M,5/25/21,An. funestus,Freshly fed,simba,positive,5.9631728e-5,simba,Same building
+K04_00032,yes,K04_5,No,K04,K04,K,K,1/18/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+K05_00324,no,NA,No,K05,NA,K,NA,5/24/21,An. arabiensis,Freshly fed,kitchen,negative,NA,NA,No match
+M07_00409,yes,M07_7,No,M07,M07,M,M,2/16/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M16_00342,yes,M16_2,No,M16,M16,M,M,6/22/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M17_00043,yes,M17_4,No,M17,M17,M,M,2/16/21,An. funestus,Freshly fed,simba,positive,0.001874037,simba,Same building
+M01_0274,no,NA,No peaks,M01,NA,M,NA,5/25/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+S14_00024,yes,S14_7,No,S14,S14,S,S,12/16/20,An. gambiae SS,Freshly fed,simba,negative,NA,simba,Same building
+K13_00087,yes,K13_3,Yes,K13,K13,K,K,4/19/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+K15_00060,yes,K15_3,No,K15,K15,K,K,6/21/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M17_00140,no,NA,No peaks,M17,NA,M,NA,6/15/21,An. funestus,Freshly fed,simba,positive,0.001853279,NA,No match
+K01_00191,no,NA,No peaks,K01,NA,K,NA,6/14/21,Undetermined,Freshly fed,main,negative,NA,NA,No match
+S02_00102,yes,S02_4,No,S02,S02,S,S,5/19/21,An. gambiae SS,Freshly fed,kitchen,positive,0.001960312,kitchen,Same building
+S05_00056,yes,S05_2,No,S05,S05,S,S,4/21/21,An. gambiae SS,Freshly fed,simba,negative,NA,simba,Same building
+M16_00343,yes,M16_4,No,M16,M16,M,M,6/22/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+S10_00099,no,NA,No peaks,S10,NA,S,NA,6/16/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M01_00368,yes,M01_1,No,M01,M01,M,M,6/15/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+S01_00123,yes,K04_1,Yes,S01,K04,S,K,6/16/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,main,Different villages
+K02_00182,yes,K02_7,No,K02,K02,K,K,5/17/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M09_00526,yes,M09_7,No,M09,M09,M,M,7/27/21,An. funestus,Freshly fed,kitchen,positive,0.00197207,kitchen,Same building
+M17_00121,yes,M17_4,No,M17,M17,M,M,5/25/21,An. funestus,Freshly fed,simba,positive,6.35208765e-4,simba,Same building
+N13_00049,no,NA,No peaks,N13,NA,N,NA,6/3/21,An. gambiae SS,Freshly fed,simba,negative,NA,NA,No match
+M17_00076,yes,M17_4,No,M17,M17,M,M,3/16/21,An. funestus,Freshly fed,simba,negative,NA,simba,Same building
+M17_00013,no,NA,No peaks,M17,NA,M,NA,10/27/20,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M17_00086,no,NA,No peaks,M17,NA,M,NA,4/27/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+K10_00080,no,NA,No,K10,NA,K,NA,3/15/21,An. gambiae SS,Freshly fed,main,NA,NA,NA,No match
+N14_00007,yes,N14_3,No,N14,N14,N,N,3/25/21,An. funestus,Freshly fed,simba,NA,NA,kitchen,Same household
+L02_00010,yes,L02_1,No,L02,L02,L,L,5/7/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M13_00175,no,NA,No peaks,M13,NA,M,NA,8/31/21,An. gambiae SS,Freshly fed,main,positive,0.004205302,NA,No match
+K10_00077,yes,K10_7,No,K10,K10,K,K,2/22/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+K05_00314,yes,K05_3,No,K05,K05,K,K,5/24/21,An. gambiae SS,Freshly fed,kitchen,positive,0.015247979,kitchen,Same building
+M06_00126,yes,M06_6,Yes,M06,M06,M,M,4/20/21,An. gambiae SS,Freshly fed,main,positive,1.69563175e-5,main,Same building
+K12_00144,no,NA,No peaks,K12,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+N07_00020,no,NA,No,N07,NA,N,NA,6/24/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,NA,No match
+K01_00169,no,NA,No peaks,K01,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+K04_00047,no,NA,No peaks,K04,NA,K,NA,5/24/21,An. arabiensis,Freshly fed,main,negative,NA,NA,No match
+M07_0580,yes,M07_10,No,M07,M07,M,M,6/15/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+K12_00134,no,NA,No peaks,K12,NA,K,NA,5/17/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M01_00158,yes,M01_3,No,M01,M01,M,M,10/27/20,An. funestus,Freshly fed,main,negative,NA,main,Same building
+K04_00046,yes,K04_1,No,K04,K04,K,K,5/17/21,An. gambiae SS,Freshly fed,main,positive,0.001096644,main,Same building
+N15_00031,yes,N15_3,No,N15,N15,N,N,6/24/21,An. funestus,Freshly fed,simba,negative,NA,simba,Same building
+M09_00509,no,NA,No peaks,M09,NA,M,NA,7/27/21,An. rufipes,Freshly fed,main,negative,NA,NA,No match
+M17_00026,yes,M17_4,No,M17,M17,M,M,1/26/21,An. funestus,Freshly fed,simba,positive,7.4151886e-4,simba,Same building
+K05_00206,yes,K05_3,No,K05,K05,K,K,5/17/21,An. gambiae SL,Freshly fed,kitchen,negative,NA,kitchen,Same building
+K10_00103,no,NA,No peaks,K10,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+L16_00021,no,NA,No peaks,L16,NA,L,NA,2/26/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+K07_00120,no,NA,No,K07,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,main,NA,NA,NA,No match
+L12_00003,yes,L12_1,No,L12,L12,L,L,2/26/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M17_00102,yes,M17_4,No,M17,M17,M,M,5/18/21,An. funestus,Freshly fed,simba,positive,4.0356789e-5,simba,Same building
+L08_00014,yes,L08_5,No,L08,L08,L,L,3/26/21,An. funestus,Freshly fed,simba,positive,0.060979182,simba,Same building
+N13_00042,yes,N13_5,No,N13,N13,N,N,5/27/21,An. gambiae SS,Freshly fed,simba1,NA,NA,simba,Same household
+M07_0476,no,NA,No,M07,NA,M,NA,4/27/21,An. funestus,Freshly fed,main,positive,0.001952438,NA,No match
+M17_00063,yes,M17_5,No,M17,M17,M,M,3/16/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M17_00131,no,NA,No peaks,M17,NA,M,NA,6/15/21,An. funestus,Freshly fed,simba,negative,NA,NA,No match
+M07_0514,yes,M07_1,No,M07,M07,M,M,5/18/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+S09_00074,yes,S09_5,Yes,S09,S09,S,S,6/23/21,An. gambiae SS,Freshly fed,main,positive,0.001027317,simba,Same household
+K01_00116,yes,L08_7,No,K01,L08,K,L,3/29/21,An. gambiae SS,Freshly fed,main,negative,NA,simba,Different villages
+M14_00118,yes,M14_5,No,M14,M14,M,M,12/15/20,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+K03_00111,yes,K03_5,No,K03,K03,K,K,6/14/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M16_00266,yes,M16_3,Yes,M16,M16,M,M,6/15/21,An. funestus,Freshly fed,main,positive,0.004606305,main,Same building
+M16_00266,yes,M16_4,Yes,M16,M16,M,M,6/15/21,An. funestus,Freshly fed,main,positive,0.004606305,main,Same building
+M03_00109,no,NA,No,M03,NA,M,NA,3/30/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+S02_00094,yes,S02_7,No,S02,S02,S,S,5/19/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,other,Same household
+K13_00179,yes,K16_4,Yes,K13,K16,K,K,5/24/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same village
+K11_00044,no,NA,No peaks,K11,NA,K,NA,11/16/20,An. gambiae SS,Freshly fed,kitchen,negative,NA,NA,No match
+K01_00193,yes,S02_4,No,K01,S02,K,S,6/14/21,An. gambiae SS,Freshly fed,main,negative,NA,kitchen,Different villages
+K07_00117,no,NA,No,K07,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M06_0230,yes,M06_3,No,M06,M06,M,M,7/27/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+N07_00006,yes,N07_1,No,N07,N07,N,N,1/28/21,An. funestus,Freshly fed,main,positive,0.015979581,main,Same building
+S02_00105,yes,S02_7,No,S02,S02,S,S,5/19/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,other,Same household
+M16_00166,yes,M16_5,No,M16,M16,M,M,4/27/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+K13_00166,no,NA,No peaks,K13,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,main,positive,0.0019371,NA,No match
+S05_00040,yes,S05_8,No,S05,S05,S,S,7/22/20,An. gambiae SS,Freshly fed,simba,negative,NA,main,Same household
+M04_00098,no,NA,No peaks,M04,NA,M,NA,5/25/21,An. gambiae SL,Freshly fed,main,negative,NA,NA,No match
+M07_00447,yes,M07_7,No,M07,M07,M,M,4/20/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+K12_00119,no,NA,No peaks,K12,NA,K,NA,3/15/21,An. arabiensis,Freshly fed,main,negative,NA,NA,No match
+M17_00119,no,NA,No peaks,M17,NA,M,NA,5/25/21,An. gambiae SS,Freshly fed,simba,positive,4.06789375e-4,NA,No match
+M18_00004,no,NA,No,M18,NA,M,NA,4/27/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+L13_00005,no,NA,No peaks,L13,NA,L,NA,5/7/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M09_0403,yes,M09_12,No,M09,M09,M,M,5/18/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M12_00029,yes,M12_8,No,M12,M12,M,M,6/22/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M13_00117,no,NA,No,M13,NA,M,NA,9/1/20,An. demeilloni,Freshly fed,main,negative,NA,NA,No match
+K02_00228,no,NA,No peaks,K02,NA,K,NA,6/21/21,An. gambiae SS,Freshly fed,simba1,negative,NA,NA,No match
+N04_00024,yes,M01_5,Yes,N04,M01,N,M,6/3/21,An. gambiae SS,Freshly fed,simba2,negative,NA,main,Different villages
+N04_00024,yes,N04_5,Yes,N04,N04,N,N,6/3/21,An. gambiae SS,Freshly fed,simba2,negative,NA,simba2,Same building
+S02_00148,yes,S02_7,No,S02,S02,S,S,6/23/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,other,Same household
+K05_00157,yes,K05_5,No,K05,K05,K,K,11/16/20,An. funestus,Freshly fed,main,negative,NA,main,Same building
+S14_00087,yes,S14_4,No,S14,S14,S,S,7/28/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,kitchen,Same building
+K03_00112,no,NA,No peaks,K03,NA,K,NA,6/21/21,An. gambiae SS,Freshly fed,simba,negative,NA,NA,No match
+M09_00533,yes,M09_7,Yes,M09,M09,M,M,8/17/21,An. funestus,Freshly fed,kitchen,positive,0.001548198,kitchen,Same building
+M16_00327,yes,M16_5,No,M16,M16,M,M,6/22/21,An. gambiae SS,Freshly fed,main,positive,0.016118932,main,Same building
+K05_00311,no,NA,No peaks,K05,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,main,positive,0.007891032,NA,No match
+M06_0190,no,NA,No peaks,M06,NA,M,NA,6/15/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+M16_00158,no,NA,No peaks,M16,NA,M,NA,4/27/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M09_00523,yes,M09_13,Yes,M09,M09,M,M,7/27/21,An. funestus,Freshly fed,kitchen,positive,8.972015e-4,kitchen,Same building
+L13_00003,no,NA,No,L13,NA,L,NA,1/15/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+K13_00174,no,NA,No peaks,K13,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M07_0474,no,NA,No peaks,M07,NA,M,NA,4/27/21,An. gambiae SL,Freshly fed,main,negative,NA,NA,No match
+K14_00078,no,NA,No,K14,NA,K,NA,5/17/21,Undetermined,Freshly fed,main,negative,NA,NA,No match
+M03_00169,yes,M03_1,No,M03,M03,M,M,6/22/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+K04_00022,yes,K04_1,No,K04,K04,K,K,7/6/20,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+K16_00010,no,NA,No peaks,K16,NA,K,NA,4/26/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+S04_00120,no,NA,No peaks,S04,NA,S,NA,5/26/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+N14_00047,yes,N14_2,No,N14,N14,N,N,7/8/21,An. funestus,Freshly fed,simba,negative,NA,kitchen,Same household
+K13_00214,no,NA,No peaks,K13,NA,K,NA,6/14/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+N13_00029,yes,N13_3,Yes,N13,N13,N,N,5/6/21,An. gambiae SS,Freshly fed,simba,negative,NA,simba,Same building
+K01_00107,yes,L04_6,No,K01,L04,K,L,11/16/20,An. gambiae SS,Freshly fed,main,negative,NA,main,Different villages
+M06_0231,yes,M06_5,Yes,M06,M06,M,M,7/27/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M06_0231,yes,M06_3,Yes,M06,M06,M,M,7/27/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+L04_00003,no,NA,No peaks,L04,NA,L,NA,10/9/20,An. arabiensis,Freshly fed,main,negative,NA,NA,No match
+K07_00091,no,NA,No peaks,K07,NA,K,NA,7/20/20,An. gambiae SS,Freshly fed,main,positive,0.00144342,NA,No match
+M13_00149,no,NA,No peaks,M13,NA,M,NA,5/25/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+K05_00171,no,NA,No,K05,NA,K,NA,4/26/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+N13_00062,yes,N13_5,No,N13,N13,N,N,6/24/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,simba,Same household
+S01_00117,yes,S01_6,No,S01,S01,S,S,5/26/21,An. gambiae SS,Freshly fed,main,NA,NA,kitchen,Same household
+M17_00145,no,NA,No peaks,M17,NA,M,NA,6/15/21,An. funestus,Freshly fed,simba,positive,0.005195306,NA,No match
+K03_00088,no,NA,No peaks,K03,NA,K,NA,3/15/21,An. funestus,Freshly fed,kitchen,negative,NA,NA,No match
+M03_0155,yes,M03_1,No,M03,M03,M,M,6/15/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+S02_00115,no,NA,No,S02,NA,S,NA,5/19/21,An. gambiae SS,Freshly fed,kitchen,positive,0.033485703,NA,No match
+M01_00362,no,NA,No,M01,NA,M,NA,6/15/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M16_00372,yes,M16_5,No,M16,M16,M,M,7/27/21,An. funestus,Freshly fed,main,positive,0.005086638,main,Same building
+M09_0440,yes,M09_4,No,M09,M09,M,M,6/15/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+S16_00031,yes,S16_4,No,S16,S16,S,S,5/26/21,An. gambiae SS,Freshly fed,simba,negative,NA,simba,Same building
+M17_00103,yes,M17_4,No,M17,M17,M,M,5/18/21,An. funestus,Freshly fed,simba,NA,NA,simba,Same building
+K11_00067,no,NA,No peaks,K11,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+K01_00189,no,NA,No peaks,K01,NA,K,NA,6/14/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+K11_00038,no,NA,No peaks,K11,NA,K,NA,8/17/20,An. arabiensis,Freshly fed,kitchen,negative,NA,NA,No match
+K13_00230,yes,K13_15-K16_3,No,K13,K13,K,K,6/28/21,An. funestus,Freshly fed,main,positive,0.001621886,NA,Same household
+K15_00038,yes,K15_1,No,K15,K15,K,K,6/14/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M01_0273,no,NA,No,M01,NA,M,NA,5/25/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M03_00183,yes,M01_5,No,M03,M01,M,M,8/17/21,An. funestus,Freshly fed,main,negative,NA,main,Same village
+M09_00484,yes,M01_3,Yes,M09,M01,M,M,6/29/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same village
+M09_00484,yes,S03_5,Yes,M09,S03,M,S,6/29/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Different villages
+S10_00042,no,NA,No peaks,S10,NA,S,NA,3/17/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M13_00128,no,NA,No peaks,M13,NA,M,NA,3/30/21,An. rufipes,Freshly fed,simba,negative,NA,NA,No match
+S10_00057,no,NA,No peaks,S10,NA,S,NA,7/8/20,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+K01_00159,yes,K01_5,No,K01,K01,K,K,5/24/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+K09_00046,yes,K09_1,No,K09,K09,K,K,12/14/20,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+S05_00038,yes,S05_4,No,S05,S05,S,S,7/8/20,An. gambiae SS,Freshly fed,main,positive,0.004238992,simba,Same household
+M01_00332,yes,M01_3,Yes,M01,M01,M,M,6/15/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+K05_00153,yes,K05_5,No,K05,K05,K,K,10/19/20,An. funestus,Freshly fed,main,NA,NA,main,Same building
+K02_00136,yes,K02_13,No,K02,K02,K,K,11/2/20,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+S05_00050,yes,S05_5,Yes,S05,S05,S,S,3/24/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M16_00353,yes,M16_2,Yes,M16,M16,M,M,6/22/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M16_00353,yes,M16_5,Yes,M16,M16,M,M,6/22/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+N15_00044,yes,N15_3,No,N15,N15,N,N,7/1/21,An. funestus,Freshly fed,simba,positive,8.290351e-5,simba,Same building
+S14_00023,yes,S14_2,No,S14,S14,S,S,11/18/20,An. gambiae SS,Freshly fed,kitchen,negative,NA,kitchen,Same building
+M01_00372,yes,M01_5,No,M01,M01,M,M,6/15/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+K13_00184,no,NA,No peaks,K13,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M09_0365,yes,M09_3,Yes,M09,M09,M,M,4/27/21,An. funestus,Freshly fed,kitchen,positive,0.001036698,kitchen,Same building
+K15_00053,yes,K15_4,Yes,K15,K15,K,K,6/21/21,An. gambiae SS,Freshly fed,main,positive,0.003246733,main,Same building
+K15_00053,yes,K15_3,Yes,K15,K15,K,K,6/21/21,An. gambiae SS,Freshly fed,main,positive,0.003246733,main,Same building
+M09_0387,yes,M09_4,No,M09,M09,M,M,5/18/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M09_0415,yes,M09_4,No,M09,M09,M,M,5/25/21,An. funestus,Freshly fed,main,NA,NA,main,Same building
+M05_00142,no,NA,No,M05,NA,M,NA,7/27/21,An. funestus,Freshly fed,main,positive,0.001463747,NA,No match
+K01_00190,no,NA,No peaks,K01,NA,K,NA,6/14/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M09_00511,yes,M09_13,No,M09,M09,M,M,7/27/21,An. funestus,Freshly fed,kitchen,positive,8.561235e-4,kitchen,Same building
+K02_00163,yes,K02_8,No,K02,K02,K,K,3/29/21,An. arabiensis,Freshly fed,simba1,positive,0.004735406,main,Same household
+M01_00361,yes,M01_3,Yes,M01,M01,M,M,6/15/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M15_00191,yes,M15_7,No,M15,M15,M,M,4/27/21,An. funestus,Freshly fed,main,negative,NA,simba,Same household
+M17_00141,yes,M17_4,No,M17,M17,M,M,6/15/21,An. funestus,Freshly fed,simba,positive,0.002472822,simba,Same building
+M16_00297,no,NA,No peaks,M16,NA,M,NA,6/15/21,An. funestus,Freshly fed,simba,negative,NA,NA,No match
+M09_0404,yes,M09_3,No,M09,M09,M,M,5/18/21,An. gambiae SS,Freshly fed,main,positive,1.5873881e-4,kitchen,Same household
+N13_00075,no,NA,No peaks,N13,NA,N,NA,7/29/21,An. demeilloni,Freshly fed,simba,negative,NA,NA,No match
+K13_00185,no,NA,No peaks,K13,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+L18_00015,yes,L18_3,Yes,L18,L18,L,L,6/4/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+K11_00085,yes,K11_1,No,K11,K11,K,K,6/21/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M17_00036,yes,M17_3,No,M17,M17,M,M,2/16/21,An. funestus,Freshly fed,simba,negative,NA,simba,Same building
+M15_00187,yes,M15_5,No,M15,M15,M,M,11/17/20,An. funestus,Freshly fed,main,negative,NA,simba,Same household
+M09_XX359,yes,M09_4,Yes,M09,M09,M,M,5/25/21,An. funestus,Freshly fed,main,positive,0.001917942,main,Same building
+M09_XX359,yes,M09_5,Yes,M09,M09,M,M,5/25/21,An. funestus,Freshly fed,main,positive,0.001917942,main,Same building
+M01_00351,no,NA,Yes,M01,NA,M,NA,6/15/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+S05_00047,yes,S05_4,No,S05,S05,S,S,11/25/20,An. gambiae SS,Freshly fed,simba2,negative,NA,simba,Same household
+N16_00002,no,NA,No peaks,N16,NA,N,NA,2/4/21,An. rufipes,Freshly fed,main,negative,NA,NA,No match
+K05_00155,yes,K05_3,No,K05,K05,K,K,11/2/20,An. gambiae SS,Freshly fed,main,negative,NA,kitchen,Same household
+K13_00173,no,NA,No,K13,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M01_00357,no,NA,No,M01,NA,M,NA,6/15/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+M17_00116,yes,M17_4,No,M17,M17,M,M,5/25/21,An. gambiae SS,Freshly fed,simba,negative,NA,simba,Same building
+M16_00183,yes,M16_5,No,M16,M16,M,M,5/25/21,An. gambiae SS,Freshly fed,main,positive,2.1122464e-5,main,Same building
+M17_00122,yes,M17_4,No,M17,M17,M,M,5/25/21,An. gambiae SS,Freshly fed,simba,positive,2.8790228e-6,simba,Same building
+K11_00053,yes,N14_3,No,K11,N14,K,N,4/19/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,kitchen,Different villages
+M06_00111,yes,M06_2,No,M06,M06,M,M,2/23/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M09_00459,no,NA,No peaks,M09,NA,M,NA,6/22/21,An. funestus,Freshly fed,kitchen,negative,NA,NA,No match
+M17_00077,yes,M17_4,No,M17,M17,M,M,3/16/21,An. funestus,Freshly fed,simba,positive,0.00145783,simba,Same building
+K11_00065,yes,K11_3,No,K11,K11,K,K,5/24/21,An. gambiae SS,Freshly fed,kitchen,NA,NA,kitchen,Same building
+M16_00333,yes,M16_4,No,M16,M16,M,M,6/22/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M17_00106,yes,M17_4,No,M17,M17,M,M,5/18/21,An. funestus,Freshly fed,simba,positive,1.46959665e-5,simba,Same building
+M17_00113,yes,M17_4,No,M17,M17,M,M,5/25/21,An. gambiae SS,Freshly fed,simba,positive,2.47422385e-5,simba,Same building
+K05_00315,no,NA,No,K05,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,NA,No match
+K13_00213,yes,K16_5,No,K13,K16,K,K,6/14/21,An. gambiae SS,Freshly fed,main,positive,1.72117365e-4,main,Same village
+M17_00037,no,NA,No peaks,M17,NA,M,NA,2/16/21,An. gambiae SS,Freshly fed,simba,negative,NA,NA,No match
+M15_00230,no,NA,No peaks,M15,NA,M,NA,8/17/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+M09_XX357,no,NA,Yes,M09,NA,M,NA,NA,NA,NA,NA,NA,NA,NA,No match
+S09_00043,yes,S09_8,No,S09,S09,S,S,10/7/20,An. gambiae SS,Freshly fed,main,negative,NA,simba,Same household
+N11_00029,yes,N11_7,No,N11,N11,N,N,7/1/21,An. funestus,Freshly fed,kitchen,negative,NA,kitchen,Same building
+S09_00048,yes,S09_2,No,S09,S09,S,S,2/17/21,An. gambiae SS,Freshly fed,main,negative,NA,simba,Same household
+M16_00156,yes,M16_3,No,M16,M16,M,M,4/27/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+L13_00007,no,NA,No peaks,L13,NA,L,NA,6/4/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+N13_00060,no,NA,No peaks,N13,NA,N,NA,6/24/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,NA,No match
+M01_00184,yes,M01_3,Yes,M01,M01,M,M,3/30/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+K01_00160,yes,K01_5,No,K01,K01,K,K,5/24/21,Undetermined,Freshly fed,main,negative,NA,main,Same building
+M07_0472,yes,M07_1,No,M07,M07,M,M,4/27/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+K01_00119,yes,K01_4,No,K01,K01,K,K,4/26/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M07_00423,yes,M07_2,No,M07,M07,M,M,2/23/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+S02_00079,no,NA,No peaks,S02,NA,S,NA,3/31/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M17_00136,no,NA,No peaks,M17,NA,M,NA,6/15/21,An. gambiae SS,Freshly fed,simba,positive,0.009588649,NA,No match
+M09_00527,yes,M09_13,No,M09,M09,M,M,7/27/21,An. funestus,Freshly fed,kitchen,positive,0.002860378,kitchen,Same building
+M19_00001,yes,M19_1,No,M19,M19,M,M,9/22/20,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+K13_00135,yes,K16_5,No,K13,K16,K,K,5/17/21,An. gambiae SL,Freshly fed,main,negative,NA,main,Same village
+S09_00047,no,NA,No,S09,NA,S,NA,1/6/21,An. gambiae SS,Freshly fed,simba,negative,NA,NA,No match
+S04_00125,no,NA,No,S04,NA,S,NA,6/16/21,An. gambiae SS,Freshly fed,main,positive,1.7253049e-4,NA,No match
+M17_00033,no,NA,No peaks,M17,NA,M,NA,2/16/21,An. funestus,Freshly fed,simba,positive,0.001711139,NA,No match
+L16_00017,no,NA,No peaks,L16,NA,L,NA,10/16/20,An. rufipes,Freshly fed,main,negative,NA,NA,No match
+M07_0478,yes,M07_3,No,M07,M07,M,M,4/27/21,An. funestus,Freshly fed,main,positive,0.00258808,main,Same building
+S02_00075,yes,S02_4,No,S02,S02,S,S,3/24/21,An. funestus,Freshly fed,kitchen,negative,NA,kitchen,Same building
+N09_00014,yes,N09_5,No,N09,N09,N,N,7/1/21,An. funestus,Freshly fed,main,negative,NA,kitchen,Same household
+N03_00017,yes,N03_3,No,N03,N03,N,N,5/27/21,An. funestus,Freshly fed,simba,negative,NA,simba,Same building
+M07_0585,no,NA,No,M07,NA,M,NA,6/15/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+L02_00009,yes,L02_6,No,L02,L02,L,L,5/7/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M09_0369,yes,M09_7,No,M09,M09,M,M,5/18/21,An. funestus,Freshly fed,kitchen,negative,NA,kitchen,Same building
+K01_00103,yes,K01_5,No,K01,K01,K,K,8/31/20,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M01_00392,yes,M01_3,Yes,M01,M01,M,M,6/22/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M01_00392,yes,M01_5,Yes,M01,M01,M,M,6/22/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M04_00108,no,NA,No peaks,M04,NA,M,NA,6/22/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+K04_00029,yes,K04_3,No,K04,K04,K,K,10/19/20,An. funestus,Freshly fed,main,NA,NA,main,Same building
+M17_00125,no,NA,No peaks,M17,NA,M,NA,6/15/21,An. funestus,Freshly fed,simba,positive,0.003113005,NA,No match
+N03_00007,no,NA,No peaks,N03,NA,N,NA,3/4/21,An. demeilloni,Freshly fed,simba,negative,NA,NA,No match
+N13_00041,yes,N13_5,No,N13,N13,N,N,5/27/21,An. funestus,Freshly fed,simba1,positive,9.48892475e-4,simba,Same household
+S16_00029,yes,S16_4,No,S16,S16,S,S,5/26/21,An. gambiae SS,Freshly fed,simba,negative,NA,simba,Same building
+M09_0364,yes,M09_8,No,M09,M09,M,M,4/27/21,An. funestus,Freshly fed,kitchen,positive,0.005342957,kitchen,Same building
+M09_XX360,yes,M09_4,No,M09,M09,M,M,5/25/21,An. gambiae SL,Freshly fed,main,positive,0.00297083,main,Same building
+S04_00086,yes,S04_6,Yes,S04,S04,S,S,4/28/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+K15_00032,yes,K15_1,No,K15,K15,K,K,6/14/21,An. gambiae SS,Freshly fed,main,positive,6.18072e-4,main,Same building
+S02_00104,yes,S02_4,No,S02,S02,S,S,5/19/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,kitchen,Same building
+S14_00018,yes,S14_5,Yes,S14,S14,S,S,10/28/20,An. gambiae SS,Freshly fed,kitchen,positive,3.7412453e-6,kitchen,Same building
+S04_00088,yes,S04_13,No,S04,S04,S,S,4/28/21,An. gambiae SL,Freshly fed,simba,negative,NA,submain,Same household
+N15_00008,yes,N15_3,No,N15,N15,N,N,3/4/21,An. funestus,Freshly fed,simba,negative,NA,simba,Same building
+M17_00139,no,NA,No peaks,M17,NA,M,NA,6/15/21,An. gambiae SS,Freshly fed,simba,negative,NA,NA,No match
+M16_00169,yes,M16_3,No,M16,M16,M,M,4/27/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+N13_00006,no,NA,Yes,N13,NA,N,NA,11/5/20,An. gambiae SS,Freshly fed,kitchen,negative,NA,NA,No match
+M07_0544,yes,M07_10,No,M07,M07,M,M,5/25/21,An. gambiae SS,Freshly fed,main,positive,9.949174e-6,main,Same building
+N07_00005,yes,N07_5,No,N07,N07,N,N,1/28/21,An. gambiae SS,Freshly fed,main,NA,NA,spouse,Same household
+M01_0405,no,NA,No,M01,NA,M,NA,6/22/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+M06_0197,no,NA,No,M06,NA,M,NA,6/22/21,An. funestus,Freshly fed,main,positive,0.003157065,NA,No match
+M07_0452,yes,M07_1,No,M07,M07,M,M,4/20/21,An. gambiae SS,Freshly fed,main,NA,NA,main,Same building
+S05_00055,yes,S05_2,No,S05,S05,S,S,4/21/21,An. gambiae SS,Freshly fed,simba,negative,NA,simba,Same building
+S04_00112,yes,S04_8,No,S04,S04,S,S,5/26/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+K01_00139,yes,K01_3,No,K01,K01,K,K,5/17/21,An. gambiae SL,Freshly fed,main,negative,NA,main,Same building
+K11_00048,no,NA,No peaks,K11,NA,K,NA,11/23/20,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+K15_00059,yes,K15_4,No,K15,K15,K,K,6/21/21,An. gambiae SS,Freshly fed,main,positive,0.004049621,main,Same building
+M16_00144,yes,M16_5,No,M16,M16,M,M,4/20/21,An. funestus,Freshly fed,main,NA,NA,main,Same building
+K01_00188,yes,K01_8,No,K01,K01,K,K,6/14/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M09_00338,yes,M09_4,No,M09,M09,M,M,3/23/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M09_00477,yes,M09_7,No,M09,M09,M,M,6/29/21,An. funestus,Freshly fed,kitchen,positive,0.001533611,kitchen,Same building
+K12_00097,yes,K12_7-K14_4,No,K12,K12,K,K,8/24/20,An. gambiae SS,Freshly fed,simba,negative,NA,NA,Same household
+K01_00126,no,NA,No,K01,NA,K,NA,4/26/21,An. gambiae SS,Freshly fed,main,NA,NA,NA,No match
+M18_00005,yes,M09_3,No,M18,M09,M,M,5/18/21,An. gambiae SS,Freshly fed,main,negative,NA,kitchen,Same village
+N08_00031,yes,N08_3,No,N08,N08,N,N,7/1/21,An. gambiae SS,Freshly fed,simba,negative,NA,main,Same household
+N15_00028,yes,N15_3,No,N15,N15,N,N,6/3/21,An. funestus,Freshly fed,simba,negative,NA,simba,Same building
+K12_00147,no,NA,No peaks,K12,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,simba,negative,NA,NA,No match
+S10_00081,no,NA,No peaks,S10,NA,S,NA,5/26/21,An. gambiae SS,Freshly fed,simba,negative,NA,NA,No match
+S14_00051,no,NA,No peaks,S14,NA,S,NA,2/24/21,An. gambiae SS,Freshly fed,simba,negative,NA,NA,No match
+K05_00242,yes,K05_1,Yes,K05,K05,K,K,8/16/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+N13_00022,yes,N13_5,No,N13,N13,N,N,4/29/21,An. gambiae SS,Freshly fed,simba,positive,3.8228731e-4,simba,Same building
+M13_00136,no,NA,No,M13,NA,M,NA,4/27/21,An. gambiae SS,Freshly fed,simba,negative,NA,NA,No match
+N13_00053,yes,N13_5,No,N13,N13,N,N,6/3/21,An. gambiae SS,Freshly fed,simba,positive,0.003915025,simba,Same building
+N04_00015,yes,N04_2,No,N04,N04,N,N,6/3/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M15_00223,yes,M15_4,No,M15,M15,M,M,6/22/21,An. funestus,Freshly fed,main,positive,0.012106238,simba,Same household
+N14_00038,no,NA,No,N14,NA,N,NA,6/3/21,An. funestus,Freshly fed,simba,negative,NA,NA,No match
+K01_00123,yes,K01_5,No,K01,K01,K,K,4/26/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M09_00472,yes,M09_13,No,M09,M09,M,M,6/29/21,An. funestus,Freshly fed,kitchen,positive,0.006606645,kitchen,Same building
+S17_00001,no,NA,No,S17,NA,S,NA,4/21/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M17_00127,no,NA,No peaks,M17,NA,M,NA,6/15/21,An. funestus,Freshly fed,simba,positive,7.220163e-4,NA,No match
+K05_00198,yes,K05_4,Yes,K05,K05,K,K,5/17/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+K05_00198,yes,K05_6,Yes,K05,K05,K,K,5/17/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M09_00327,no,NA,No peaks,M09,NA,M,NA,2/16/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+S02_00117,yes,S02_4,No,S02,S02,S,S,5/19/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,kitchen,Same building
+M17_00095,yes,M17_4,No,M17,M17,M,M,5/18/21,An. gambiae SS,Freshly fed,simba,positive,4.6616415e-5,simba,Same building
+M09_00473,yes,M09_7,No,M09,M09,M,M,6/29/21,An. funestus,Freshly fed,kitchen,negative,NA,kitchen,Same building
+M16_00173,yes,M16_5,No,M16,M16,M,M,4/27/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+S02_00069,yes,S02_7,No,S02,S02,S,S,7/29/20,An. gambiae SS,Freshly fed,kitchen,negative,NA,other,Same household
+K09_00061,no,NA,No peaks,K09,NA,K,NA,5/17/21,An. gambiae SS,Freshly fed,simba2,negative,NA,NA,No match
+S11_00030,no,NA,No peaks,S11,NA,S,NA,4/28/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+S13_00021,yes,S13_3,Yes,S13,S13,S,S,5/26/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+S13_00021,yes,S13_5,Yes,S13,S13,S,S,5/26/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M17_00075,yes,M17_4,No,M17,M17,M,M,3/16/21,An. funestus,Freshly fed,simba,negative,NA,simba,Same building
+M07_0475,yes,M07_2,Yes,M07,M07,M,M,4/27/21,An. gambiae SL,Freshly fed,main,negative,NA,main,Same building
+M07_0475,yes,M07_3,Yes,M07,M07,M,M,4/27/21,An. gambiae SL,Freshly fed,main,negative,NA,main,Same building
+M17_00183,yes,M17_2,No,M17,M17,M,M,8/24/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+K15_00040,yes,K15_1,No,K15,K15,K,K,6/14/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+N04_00013,yes,N04_5,No,N04,N04,N,N,5/27/21,An. gambiae SS,Freshly fed,simba,negative,NA,simba2,Same household
+K02_00207,no,NA,No peaks,K02,NA,K,NA,5/24/21,An. funestus,Freshly fed,simba2,negative,NA,NA,No match
+K10_00117,no,NA,No peaks,K10,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M06_0206,no,NA,No peaks,M06,NA,M,NA,6/22/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+K05_00319,no,NA,No peaks,K05,NA,K,NA,5/24/21,An. arabiensis,Freshly fed,kitchen,negative,NA,NA,No match
+L08_00011,yes,L08_7,No,L08,L08,L,L,3/26/21,An. gambiae SS,Freshly fed,simba,negative,NA,simba,Same building
+K02_00216,yes,K02_5,No,K02,K02,K,K,5/24/21,An. gambiae SS,Freshly fed,simba1,negative,NA,simba,Same household
+M09_00310,yes,M09_12,Yes,M09,M09,M,M,8/18/20,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M09_00310,yes,M09_13,Yes,M09,M09,M,M,8/18/20,An. funestus,Freshly fed,main,negative,NA,kitchen,Same household
+M17_00162,no,NA,No,M17,NA,M,NA,6/22/21,An. funestus,Freshly fed,simba,negative,NA,NA,No match
+N10_00007,yes,N10_1,No,N10,N10,N,N,6/3/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+S05_00048,yes,S05_4,No,S05,S05,S,S,12/16/20,An. gambiae SS,Freshly fed,simba,negative,NA,simba,Same building
+M01_00179,yes,M01_6,No,M01,M01,M,M,3/23/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M14_00122,yes,N13_5,No,M14,N13,M,N,5/25/21,An. funestus,Freshly fed,main,negative,NA,simba,Different villages
+K05_00218,yes,K05_3,No,K05,K05,K,K,5/17/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,kitchen,Same building
+M01_00343,yes,M01_5,No,M01,M01,M,M,6/15/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+S10_00106,no,NA,No,S10,NA,S,NA,6/16/21,An. gambiae SS,Freshly fed,simba,negative,NA,NA,No match
+S02_00103,yes,S02_7,No,S02,S02,S,S,5/19/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,other,Same household
+K05_00310,no,NA,No peaks,K05,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+K11_00093,yes,K11_3,No,K11,K11,K,K,7/19/21,An. funestus,Freshly fed,kitchen,negative,NA,kitchen,Same building
+N14_00045,no,NA,No peaks,N14,NA,N,NA,7/1/21,An. funestus,Freshly fed,simba,negative,NA,NA,No match
+N13_00057,no,NA,No peaks,N13,NA,N,NA,6/24/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,NA,No match
+M16_00198,yes,M16_5,No,M16,M16,M,M,5/25/21,Undetermined,Freshly fed,main,positive,1.9876393e-4,main,Same building
+M05_00105,yes,M05_3,No,M05,M05,M,M,2/16/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+K16_00017,no,NA,No peaks,K16,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+K10_00081,yes,K10_2,Yes,K10,K10,K,K,3/22/21,An. funestus,Freshly fed,main,NA,NA,main,Same building
+K15_00027,yes,K15_1,No,K15,K15,K,K,5/17/21,An. gambiae SL,Freshly fed,main,negative,NA,main,Same building
+M06_00108,no,NA,No peaks,M06,NA,M,NA,2/16/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+N13_00028,yes,N13_5,No,N13,N13,N,N,5/6/21,An. funestus,Freshly fed,simba,negative,NA,simba,Same building
+S02_00100,yes,S02_4,No,S02,S02,S,S,5/19/21,An. gambiae SS,Freshly fed,kitchen,positive,0.001190723,kitchen,Same building
+M03_0157,no,NA,No,M03,NA,M,NA,6/15/21,An. gambiae SS,Freshly fed,main,positive,0.030155331,NA,No match
+N11_00011,yes,N11_16,No,N11,N11,N,N,5/6/21,An. funestus,Freshly fed,main,negative,NA,kitchen,Same household
+M09_0384,yes,M14_6,No,M09,M14,M,M,5/18/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same village
+S14_00030,yes,S14_4,No,S14,S14,S,S,4/28/21,An. gambiae SS,Freshly fed,main,negative,NA,kitchen,Same household
+K05_00174,yes,K05_7,No,K05,K05,K,K,4/26/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M07_0610,yes,M07_10,No,M07,M07,M,M,6/22/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+N15_00043,yes,N15_4,No,N15,N15,N,N,7/1/21,An. funestus,Freshly fed,simba,negative,NA,main,Same household
+N04_00022,yes,N04_5,No,N04,N04,N,N,6/3/21,An. gambiae SS,Freshly fed,simba2,negative,NA,simba2,Same building
+M01_00335,yes,M01_5,No,M01,M01,M,M,6/15/21,An. funestus,Freshly fed,main,positive,0.001116912,main,Same building
+S02_00064,yes,S02_7,No,S02,S02,S,S,7/8/20,An. gambiae SS,Freshly fed,kitchen,negative,NA,other,Same household
+K05_00243,no,NA,No,K05,NA,K,NA,8/16/21,An. gambiae SS,Freshly fed,simba,negative,NA,NA,No match
+K11_00066,no,NA,No peaks,K11,NA,K,NA,5/24/21,Undetermined,Freshly fed,kitchen,negative,NA,NA,No match
+M06_00116,no,NA,No peaks,M06,NA,M,NA,3/16/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+L18_00013,no,NA,No,L18,NA,L,NA,6/4/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+M01_0404,yes,M01_2,No,M01,M01,M,M,6/22/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M03_00088,no,NA,No peaks,M03,NA,M,NA,8/4/20,An. rufipes,Freshly fed,main,negative,NA,NA,No match
+S16_00013,yes,S16_6,Yes,S16,S16,S,S,11/4/20,An. gambiae SS,Freshly fed,simba,negative,NA,simba,Same building
+M16_00335,yes,M16_8,No,M16,M16,M,M,6/22/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+S04_00074,yes,S04_7,No,S04,S04,S,S,10/21/20,An. gambiae SS,Freshly fed,main,positive,5.0343638e-6,submain,Same household
+K02_00127,no,NA,No peaks,K02,NA,K,NA,10/5/20,An. arabiensis,Freshly fed,main,negative,NA,NA,No match
+M16_00223,yes,M16_5,No,M16,M16,M,M,5/25/21,Undetermined,Freshly fed,main,NA,NA,main,Same building
+K13_00096,yes,K16_5,No,K13,K16,K,K,4/26/21,An. funestus,Freshly fed,main,negative,NA,main,Same village
+M04_00103,yes,K15_4,No,M04,K15,M,K,6/15/21,An. rufipes,Freshly fed,main,negative,NA,main,Different villages
+N08_00033,yes,N08_1,No,N08,N08,N,N,7/8/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+S02_00093,no,NA,No peaks,S02,NA,S,NA,5/19/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+S06_00046,yes,S06_5,Yes,S06,S06,S,S,7/22/20,An. funestus,Freshly fed,kitchen,negative,NA,main,Same household
+S06_00046,yes,S06_6,Yes,S06,S06,S,S,7/22/20,An. funestus,Freshly fed,kitchen,negative,NA,main,Same household
+N03_00021,yes,N03_3,No,N03,N03,N,N,5/27/21,An. gambiae SS,Freshly fed,simba,negative,NA,simba,Same building
+M01_00355,yes,M01_4,Yes,M01,M01,M,M,6/15/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M01_00355,yes,M01_6,Yes,M01,M01,M,M,6/15/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+K13_00187,yes,K13_3,Yes,K13,K13,K,K,5/24/21,An. gambiae SS,Freshly fed,main,positive,0.002378471,main,Same building
+K13_00187,yes,K13_15-K16_3,Yes,K13,K13,K,K,5/24/21,An. gambiae SS,Freshly fed,main,positive,0.002378471,NA,Same household
+K05_00318,yes,K05_3,No,K05,K05,K,K,5/24/21,An. gambiae SS,Freshly fed,kitchen,positive,0.00580086,kitchen,Same building
+S04_00073,yes,S04_12,No,S04,S04,S,S,10/21/20,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+S08_00035,no,NA,No peaks,S08,NA,S,NA,6/16/21,An. gambiae SS,Freshly fed,simba1,negative,NA,NA,No match
+M07_0455,no,NA,No,M07,NA,M,NA,4/20/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+M13_00146,no,NA,No peaks,M13,NA,M,NA,5/25/21,An. gambiae SS,Freshly fed,simba,negative,NA,NA,No match
+S05_00043,yes,S05_4,No,S05,S05,S,S,10/28/20,An. gambiae SS,Freshly fed,kitchen,negative,NA,simba,Same household
+L12_00016,yes,L12_3,No,L12,L12,L,L,6/4/21,An. gambiae SS,Freshly fed,main,negative,NA,simba,Same household
+N04_00023,yes,N04_5,No,N04,N04,N,N,6/3/21,An. gambiae SS,Freshly fed,simba2,negative,NA,simba2,Same building
+K01_00132,yes,K01_5,No,K01,K01,K,K,5/17/21,An. gambiae SS,Freshly fed,main,positive,0.087456095,main,Same building
+N13_00058,yes,N13_5,No,N13,N13,N,N,6/24/21,An. funestus,Freshly fed,kitchen,negative,NA,simba,Same household
+S04_00138,yes,S04_4,No,S04,S04,S,S,7/21/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M18_00010,yes,M18_2,No,M18,M18,M,M,6/22/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+N11_00021,yes,N11_22,No,N11,N11,N,N,6/3/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,Same household
+K15_00039,yes,K15_1,No,K15,K15,K,K,6/14/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+S09_00065,no,NA,No peaks,S09,NA,S,NA,6/16/21,An. gambiae SL,Freshly fed,main,negative,NA,NA,No match
+M01_0280,no,NA,No peaks,M01,NA,M,NA,5/25/21,An. gambiae SS,Freshly fed,main,NA,NA,NA,No match
+K01_00192,no,NA,No peaks,K01,NA,K,NA,6/14/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M17_00039,yes,M17_3,No,M17,M17,M,M,2/16/21,An. funestus,Freshly fed,simba,negative,NA,simba,Same building
+N15_00032,yes,N15_3,No,N15,N15,N,N,6/24/21,An. funestus,Freshly fed,simba,negative,NA,simba,Same building
+M03_00137,yes,M03_1,No,M03,M03,M,M,5/25/21,An. funestus,Freshly fed,main,NA,NA,main,Same building
+K13_00165,no,NA,No peaks,K13,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+S02_00101,yes,S02_4,No,S02,S02,S,S,5/19/21,An. gambiae SS,Freshly fed,kitchen,positive,0.002467776,kitchen,Same building
+M04_00097,no,NA,No peaks,M04,NA,M,NA,5/25/21,An. gambiae SL,Freshly fed,main,negative,NA,NA,No match
+S08_00036,yes,S08_3,No,S08,S08,S,S,6/16/21,An. gambiae SS,Freshly fed,simba1,negative,NA,simba1,Same building
+M17_00160,no,NA,No peaks,M17,NA,M,NA,6/22/21,An. gambiae SS,Freshly fed,simba,negative,NA,NA,No match
+M16_00340,yes,M16_8,Yes,M16,M16,M,M,6/22/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+S02_00088,yes,S02_7,No,S02,S02,S,S,4/28/21,An. gambiae SS,Freshly fed,main,negative,NA,other,Same household
+M06_00104,no,NA,No,M06,NA,M,NA,1/19/21,An. demeilloni,Freshly fed,main,negative,NA,NA,No match
+M05_00094,yes,M13_2,No,M05,M13,M,M,8/4/20,An. rufipes,Freshly fed,main,negative,NA,main,Same village
+M07_00449,yes,M07_10,No,M07,M07,M,M,4/20/21,An. gambiae SS,Freshly fed,main,NA,NA,main,Same building
+M07_0616,yes,M07_1,No,M07,M07,M,M,7/27/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+K13_00161,no,NA,No peaks,K13,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+K16_00003,no,NA,No peaks,K16,NA,K,NA,9/14/20,Undetermined,Freshly fed,main,NA,NA,NA,No match
+M01_0285,no,NA,No peaks,M01,NA,M,NA,5/25/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M07_0479,yes,M07_1,No,M07,M07,M,M,4/27/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M16_00112,yes,M16_5,No,M16,M16,M,M,12/15/20,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M07_0483,yes,M07_2,No,M07,M07,M,M,4/27/21,An. gambiae SL,Freshly fed,main,negative,NA,main,Same building
+S02_00123,no,NA,No peaks,S02,NA,S,NA,5/26/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+K05_00216,yes,K05_3,No,K05,K05,K,K,5/17/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,kitchen,Same building
+M14_00151,yes,M14_6,No,M14,M14,M,M,10/6/20,An. funestus,Freshly fed,main,negative,NA,main,Same building
+S04_00123,yes,S04_6,Yes,S04,S04,S,S,6/16/21,An. funestus,Freshly fed,main,positive,4.0287934e-4,main,Same building
+S04_00123,yes,S04_8,Yes,S04,S04,S,S,6/16/21,An. funestus,Freshly fed,main,positive,4.0287934e-4,main,Same building
+M01_00192,yes,M01_3,Yes,M01,M01,M,M,4/20/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M01_00192,yes,M01_6,Yes,M01,M01,M,M,4/20/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M17_00071,yes,M17_4,No,M17,M17,M,M,3/16/21,An. funestus,Freshly fed,simba,negative,NA,simba,Same building
+N14_00008,yes,N14_3,No,N14,N14,N,N,4/8/21,An. funestus,Freshly fed,simba,NA,NA,kitchen,Same household
+M07_00450,yes,M07_7,No,M07,M07,M,M,4/20/21,An. gambiae SS,Freshly fed,main,positive,7.952557e-6,main,Same building
+L18_00021,no,NA,Yes,L18,NA,L,NA,7/9/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+M07_00413,yes,M07_1,No,M07,M07,M,M,2/16/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+N16_00008,yes,K15_4,No,N16,K15,N,K,6/3/21,An. demeilloni,Freshly fed,main,negative,NA,main,Different villages
+S05_00041,yes,S05_4,No,S05,S05,S,S,10/7/20,An. gambiae SS,Freshly fed,main,negative,NA,simba,Same household
+K05_00217,yes,K05_3,No,K05,K05,K,K,5/17/21,Undetermined,Freshly fed,kitchen,negative,NA,kitchen,Same building
+N15_00012,yes,N15_3,No,N15,N15,N,N,3/25/21,An. funestus,Freshly fed,simba,negative,NA,simba,Same building
+M06_0221,yes,M06_3,No,M06,M06,M,M,6/29/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M07_0456,no,NA,No peaks,M07,NA,M,NA,4/20/21,An. gambiae SL,Freshly fed,main,negative,NA,NA,No match
+M07_0546,no,NA,No peaks,M07,NA,M,NA,5/25/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M07_00437,yes,M07_7,Yes,M07,M07,M,M,4/20/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M07_00437,yes,M07_10,Yes,M07,M07,M,M,4/20/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+S02_00131,no,NA,No peaks,S02,NA,S,NA,5/26/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,NA,No match
+M17_00016,no,NA,No peaks,M17,NA,M,NA,1/5/21,An. rufipes,Freshly fed,simba,negative,NA,NA,No match
+S09_00069,no,NA,No peaks,S09,NA,S,NA,6/16/21,An. gambiae SS,Freshly fed,simba,negative,NA,NA,No match
+S10_00084,no,NA,No peaks,S10,NA,S,NA,5/26/21,An. gambiae SS,Freshly fed,simba,negative,NA,NA,No match
+M07_0481,yes,M07_2,No,M07,M07,M,M,4/27/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+N08_00024,yes,N08_3,No,N08,N08,N,N,6/24/21,An. funestus,Freshly fed,simba,negative,NA,main,Same household
+M17_00128,yes,M01_5,No,M17,M01,M,M,6/15/21,An. gambiae SS,Freshly fed,simba,negative,NA,main,Same village
+K13_00095,no,NA,No peaks,K13,NA,K,NA,4/26/21,An. gambiae SL,Freshly fed,main,negative,NA,NA,No match
+K05_00313,no,NA,No,K05,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,NA,No match
+M09_00350,yes,M09_8,No,M09,M09,M,M,4/20/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,kitchen,Same building
+M16_00294,no,NA,No,M16,NA,M,NA,6/15/21,An. gambiae SS,Freshly fed,simba,negative,NA,NA,No match
+K01_00179,yes,K01_5,No,K01,K01,K,K,5/24/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M09_00340,no,NA,No peaks,M09,NA,M,NA,3/23/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+N13_00061,no,NA,No,N13,NA,N,NA,6/24/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,NA,No match
+N03_00005,no,NA,No peaks,N03,NA,N,NA,3/4/21,An. demeilloni,Freshly fed,simba,negative,NA,NA,No match
+K10_00069,yes,K10_3,Yes,K10,K10,K,K,1/18/21,An. funestus,Freshly fed,main,positive,0.00523261,main,Same building
+K10_00069,yes,K10_5,Yes,K10,K10,K,K,1/18/21,An. funestus,Freshly fed,main,positive,0.00523261,main,Same building
+M09_0407,no,NA,No peaks,M09,NA,M,NA,5/18/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M17_00069,no,NA,No peaks,M17,NA,M,NA,3/16/21,An. funestus,Freshly fed,simba,negative,NA,NA,No match
+M09_00465,yes,L08_1,Yes,M09,L08,M,L,6/22/21,An. funestus,Freshly fed,main,negative,NA,main,Different villages
+M09_00465,yes,M09_4,Yes,M09,M09,M,M,6/22/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+S02_00146,yes,S02_4,No,S02,S02,S,S,6/23/21,An. funestus,Freshly fed,kitchen,negative,NA,kitchen,Same building
+M03_00106,yes,M03_1,No,M03,M03,M,M,3/30/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+S14_00026,yes,S14_6,No,S14,S14,S,S,12/16/20,An. gambiae SS,Freshly fed,simba,negative,NA,simba,Same building
+K05_00176,yes,K05_4,No,K05,K05,K,K,4/26/21,An. gambiae SL,Freshly fed,main,positive,0.002650145,main,Same building
+M01_00345,yes,M01_6,Yes,M01,M01,M,M,6/15/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+L16_00041,yes,K05_3,No,L16,K05,L,K,9/10/21,An. demeilloni,Freshly fed,main,negative,NA,kitchen,Different villages
+K02_00166,yes,K02_5,No,K02,K02,K,K,3/29/21,An. funestus,Freshly fed,main,negative,NA,simba,Same household
+N15_00009,yes,N15_3,No,N15,N15,N,N,3/25/21,An. funestus,Freshly fed,simba,negative,NA,simba,Same building
+K03_00101,no,NA,No peaks,K03,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+L01_00011,yes,L01_1,No,L01,L01,L,L,4/9/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+N13_00019,no,NA,No,N13,NA,N,NA,3/25/21,An. funestus,Freshly fed,simba1,negative,NA,NA,No match
+M01_00191,yes,M01_7,Yes,M01,M01,M,M,4/20/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+L02_00008,no,NA,No,L02,NA,L,NA,5/7/21,An. gambiae SL,Freshly fed,main,negative,NA,NA,No match
+M09_0375,yes,M09_7,No,M09,M09,M,M,5/18/21,An. gambiae SS,Freshly fed,kitchen,NA,NA,kitchen,Same building
+M17_00020,yes,M17_3,No,M17,M17,M,M,1/19/21,An. funestus,Freshly fed,simba,negative,NA,simba,Same building
+K11_00042,yes,K11_3,Yes,K11,K11,K,K,11/2/20,An. gambiae SS,Freshly fed,kitchen,positive,1.3360782e-5,kitchen,Same building
+K11_00042,yes,K11_4,Yes,K11,K11,K,K,11/2/20,An. gambiae SS,Freshly fed,kitchen,positive,1.3360782e-5,kitchen,Same building
+M03_00168,yes,K15_1,No,M03,K15,M,K,6/22/21,An. funestus,Freshly fed,main,negative,NA,main,Different villages
+M07_0601,no,NA,No,M07,NA,M,NA,6/22/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+S02_00065,yes,S02_4,Yes,S02,S02,S,S,7/8/20,An. funestus,Freshly fed,kitchen,positive,0.001183321,kitchen,Same building
+S02_00065,yes,S02_7,Yes,S02,S02,S,S,7/8/20,An. funestus,Freshly fed,kitchen,positive,0.001183321,other,Same household
+S09_00066,no,NA,No,S09,NA,S,NA,6/16/21,An. gambiae SS,Freshly fed,simba,negative,NA,NA,No match
+L18_00017,yes,L18_6,Yes,L18,L18,L,L,7/2/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+L18_00017,yes,L05_12,Yes,L18,L05,L,L,7/2/21,An. gambiae SS,Freshly fed,main,negative,NA,simba,Same village
+M09_00347,yes,M09_7,Yes,M09,M09,M,M,4/20/21,An. gambiae SL,Freshly fed,main,positive,1.7600746e-4,kitchen,Same household
+S02_00077,yes,S02_7,No,S02,S02,S,S,3/31/21,An. gambiae SL,Freshly fed,kitchen,positive,0.001274122,other,Same household
+K02_00147,yes,K02_10,No,K02,K02,K,K,11/30/20,An. arabiensis,Freshly fed,main,positive,3.6748397e-6,main,Same building
+K03_00080,yes,K03_6,No,K03,K03,K,K,9/21/20,An. funestus,Freshly fed,kitchen,negative,NA,kitchen,Same building
+M07_0614,no,NA,No,M07,NA,M,NA,6/29/21,An. gambiae SS,Freshly fed,main,positive,0.001461065,NA,No match
+S10_00046,yes,S10_8,No,S10,S10,S,S,4/28/21,An. gambiae SS,Freshly fed,simba,negative,NA,simba,Same building
+M16_00154,yes,M16_3,Yes,M16,M16,M,M,4/27/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M16_00154,yes,M16_4,Yes,M16,M16,M,M,4/27/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M17_00118,yes,M17_4,No,M17,M17,M,M,5/25/21,An. funestus,Freshly fed,simba,positive,3.41775495e-5,simba,Same building
+K01_00102,no,NA,Yes,K01,NA,K,NA,8/17/20,An. funestus,Freshly fed,main,negative,NA,NA,No match
+K01_00105,no,NA,No peaks,K01,NA,K,NA,9/21/20,An. arabiensis,Freshly fed,main,NA,NA,NA,No match
+K12_00104,no,NA,No peaks,K12,NA,K,NA,10/26/20,An. funestus,Freshly fed,main,negative,NA,NA,No match
+M12_00034,yes,M12_16,No,M12,M12,M,M,7/27/21,An. funestus,Freshly fed,main,negative,NA,NA,Same household
+N11_00013,yes,N11_5,No,N11,N11,N,N,5/27/21,An. gambiae SS,Freshly fed,main,negative,NA,kitchen,Same household
+K02_00149,yes,K02_10,No,K02,K02,K,K,1/4/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M09_0405,yes,M14_6,No,M09,M14,M,M,5/18/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same village
+S02_00118,yes,S02_4,No,S02,S02,S,S,5/19/21,An. gambiae SS,Freshly fed,kitchen,positive,0.001708658,kitchen,Same building
+S02_00147,yes,S02_4,No,S02,S02,S,S,6/23/21,An. funestus,Freshly fed,kitchen,negative,NA,kitchen,Same building
+S04_00116,yes,S04_8,No,S04,S04,S,S,5/26/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+N15_00017,yes,N15_3,No,N15,N15,N,N,5/6/21,An. gambiae SL,Freshly fed,simba,negative,NA,simba,Same building
+K01_00168,no,NA,No peaks,K01,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+S09_00067,yes,S09_8,No,S09,S09,S,S,6/16/21,An. gambiae SS,Freshly fed,simba,negative,NA,simba,Same building
+N03_00008,no,NA,No peaks,N03,NA,N,NA,3/4/21,An. demeilloni,Freshly fed,main,negative,NA,NA,No match
+M01_00359,yes,M01_5,No,M01,M01,M,M,6/15/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+N13_00038,yes,N13_5,No,N13,N13,N,N,5/27/21,An. gambiae SS,Freshly fed,simba1,NA,NA,simba,Same household
+S07_00011,no,NA,No peaks,S07,NA,S,NA,NA,NA,NA,NA,NA,NA,NA,No match
+M07_0458,no,NA,No peaks,M07,NA,M,NA,4/20/21,An. gambiae SL,Freshly fed,main,NA,NA,NA,No match
+M09_0366,no,NA,No peaks,M09,NA,M,NA,4/27/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,NA,No match
+M13_00162,no,NA,No,M13,NA,M,NA,6/22/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+S14_00020,no,NA,Yes,S14,NA,S,NA,10/28/20,An. gambiae SS,Freshly fed,kitchen,negative,NA,NA,No match
+S14_00028,yes,S14_6,No,S14,S14,S,S,3/24/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,simba,Same household
+K13_00145,yes,K13_3,Yes,K13,K13,K,K,5/17/21,An. funestus,Freshly fed,main,positive,0.001218557,main,Same building
+N13_00056,no,NA,No peaks,N13,NA,N,NA,6/24/21,An. gambiae SS,Freshly fed,kitchen,positive,7.50928e-4,NA,No match
+K11_00088,yes,K11_4,No,K11,K11,K,K,6/28/21,An. funestus,Freshly fed,main,negative,NA,kitchen,Same household
+K02_00230,yes,K02_5,No,K02,K02,K,K,6/21/21,An. gambiae SS,Freshly fed,simba1,negative,NA,simba,Same household
+M09_0447,no,NA,No peaks,M09,NA,M,NA,6/15/21,An. funestus,Freshly fed,main,positive,1.34197e-4,NA,No match
+N08_00005,yes,N08_1,No,N08,N08,N,N,2/25/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+K13_00118,no,NA,No,K13,NA,K,NA,5/17/21,An. arabiensis,Freshly fed,main,negative,NA,NA,No match
+K12_00139,no,NA,No peaks,K12,NA,K,NA,5/17/21,An. gambiae SL,Freshly fed,main,negative,NA,NA,No match
+N15_00019,yes,N15_3,No,N15,N15,N,N,5/27/21,An. gambiae SL,Freshly fed,simba,NA,NA,simba,Same building
+L14_00001,no,NA,No peaks,L14,NA,L,NA,8/7/20,An. pretoriensis,Freshly fed,simba,negative,NA,NA,No match
+M07_0606,yes,M07_10,Yes,M07,M07,M,M,6/22/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+K09_00060,yes,K09_7,Yes,K09,K09,K,K,5/17/21,An. funestus,Freshly fed,simba2,NA,NA,simba2,Same building
+N13_00023,yes,N13_3,No,N13,N13,N,N,4/29/21,An. gambiae SS,Freshly fed,simba,NA,NA,simba,Same building
+S16_00030,yes,S16_4,No,S16,S16,S,S,5/26/21,An. funestus,Freshly fed,simba,negative,NA,simba,Same building
+M01_00363,yes,M01_3,No,M01,M01,M,M,6/15/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+S14_00086,no,NA,No peaks,S14,NA,S,NA,6/30/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M07_00416,yes,M07_1,Yes,M07,M07,M,M,2/16/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M07_00416,yes,M07_2,Yes,M07,M07,M,M,2/16/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M16_00344,yes,M16_4,No,M16,M16,M,M,6/22/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M01_00341,yes,M01_5,No,M01,M01,M,M,6/15/21,An. funestus,Freshly fed,main,positive,0.004142096,main,Same building
+K10_00087,yes,K10_1,Yes,K10,K10,K,K,4/26/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+K10_00087,yes,K10_3,Yes,K10,K10,K,K,4/26/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M13_00156,no,NA,No peaks,M13,NA,M,NA,6/15/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M03_00131,no,NA,No,M03,NA,M,NA,5/25/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+M17_00172,yes,M17_4,No,M17,M17,M,M,6/22/21,An. funestus,Freshly fed,simba,positive,9.22484e-4,simba,Same building
+N13_00063,no,NA,No peaks,N13,NA,N,NA,6/24/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,NA,No match
+S02_00081,no,NA,No peaks,S02,NA,S,NA,4/21/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M06_00109,no,NA,No peaks,M06,NA,M,NA,2/16/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+K02_00219,no,NA,No peaks,K02,NA,K,NA,6/14/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+K02_00185,yes,K02_7,No,K02,K02,K,K,5/17/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+K10_00114,no,NA,No peaks,K10,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,main,NA,NA,NA,No match
+M17_00011,yes,M17_4,Yes,M17,M17,M,M,9/1/20,An. funestus,Freshly fed,main,positive,6.8725137e-4,simba,Same household
+N14_00052,yes,N14_3,No,N14,N14,N,N,8/5/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,kitchen,Same building
+N11_00008,yes,N11_5,No,N11,N11,N,N,3/25/21,An. funestus,Freshly fed,main,NA,NA,kitchen,Same household
+S02_00072,no,NA,No peaks,S02,NA,S,NA,10/7/20,An. gambiae SS,Freshly fed,kitchen,negative,NA,NA,No match
+S10_00082,yes,L04_3,No,S10,L04,S,L,5/26/21,An. gambiae SS,Freshly fed,simba,negative,NA,main,Different villages
+K02_00126,yes,K02_6,No,K02,K02,K,K,10/5/20,An. gambiae SS,Freshly fed,simba,negative,NA,simba2,Same household
+K13_00211,no,NA,No peaks,K13,NA,K,NA,6/14/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+K13_00091,yes,K13_3,Yes,K13,K13,K,K,4/19/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+K13_00091,yes,K13_15-K16_3,Yes,K13,K13,K,K,4/19/21,An. funestus,Freshly fed,main,negative,NA,NA,Same household
+K05_00211,yes,K05_3,No,K05,K05,K,K,5/17/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,kitchen,Same building
+M09_00451,yes,M09_4,No,M09,M09,M,M,6/15/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+K13_00094,yes,K16_4,No,K13,K16,K,K,4/26/21,An. gambiae SL,Freshly fed,main,positive,0.005863819,main,Same village
+S14_00027,yes,S14_13,No,S14,S14,S,S,2/17/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,kitchen,Same building
+K04_00045,yes,K04_2,No,K04,K04,K,K,5/17/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+S16_00033,yes,S16_3,No,S16,S16,S,S,5/26/21,An. gambiae SS,Freshly fed,main,NA,NA,simba,Same household
+K02_00168,yes,K02_6,No,K02,K02,K,K,4/26/21,An. gambiae SL,Freshly fed,simba2,negative,NA,simba2,Same building
+N15_00040,yes,N15_5,No,N15,N15,N,N,6/24/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+K01_00194,no,NA,No,K01,NA,K,NA,6/14/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+K13_00120,yes,K13_15-K16_3,No,K13,K13,K,K,5/17/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,Same household
+S02_00096,yes,S02_7,No,S02,S02,S,S,5/19/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,other,Same household
+M06_00129,yes,M06_1,Yes,M06,M06,M,M,4/20/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+K05_00181,yes,K05_3,No,K05,K05,K,K,4/26/21,An. gambiae SS,Freshly fed,main,NA,NA,kitchen,Same household
+N13_00018,yes,N13_3,No,N13,N13,N,N,3/25/21,An. funestus,Freshly fed,simba1,negative,NA,simba,Same household
+S10_00092,no,NA,No peaks,S10,NA,S,NA,5/26/21,An. gambiae SS,Freshly fed,main,NA,NA,NA,No match
+K15_00052,yes,K15_4,Yes,K15,K15,K,K,6/21/21,An. funestus,Freshly fed,main,positive,0.005686431,main,Same building
+K15_00052,yes,K15_3,Yes,K15,K15,K,K,6/21/21,An. funestus,Freshly fed,main,positive,0.005686431,main,Same building
+S04_00109,no,NA,No,S04,NA,S,NA,5/26/21,An. gambiae SS,Freshly fed,main,NA,NA,NA,No match
+M16_00240,no,NA,No,M16,NA,M,NA,5/25/21,An. gambiae SS,Freshly fed,main,NA,NA,NA,No match
+M07_00440,yes,M07_2,No,M07,M07,M,M,4/20/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+L16_00023,no,NA,No peaks,L16,NA,L,NA,4/9/21,An. demeilloni,Freshly fed,main,negative,NA,NA,No match
+M16_00332,yes,M16_5,Yes,M16,M16,M,M,6/22/21,An. funestus,Freshly fed,main,NA,NA,main,Same building
+M16_00332,yes,M16_8,Yes,M16,M16,M,M,6/22/21,An. funestus,Freshly fed,main,NA,NA,main,Same building
+M16_00236,no,NA,No peaks,M16,NA,M,NA,5/25/21,An. funestus,Freshly fed,main,positive,3.54661845e-5,NA,No match
+L08_00003,yes,L08_5,No,L08,L08,L,L,2/26/21,An. funestus,Freshly fed,simba,negative,NA,simba,Same building
+N04_00016,yes,N04_2,No,N04,N04,N,N,6/3/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+K02_00221,no,NA,No peaks,K02,NA,K,NA,6/14/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+K12_00148,no,NA,No peaks,K12,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,simba,negative,NA,NA,No match
+N08_00030,yes,N08_1,No,N08,N08,N,N,7/1/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+K01_00187,no,NA,No peaks,K01,NA,K,NA,6/14/21,An. gambiae SS,Freshly fed,main,positive,1.51831e-4,NA,No match
+K01_00131,yes,K01_4,No,K01,K01,K,K,5/17/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+S14_00059,yes,S14_4,No,S14,S14,S,S,5/26/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,kitchen,Same building
+M07_00442,no,NA,No peaks,M07,NA,M,NA,4/20/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+K15_00011,yes,K15_3,No,K15,K15,K,K,11/23/20,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M09_00321,no,NA,No peaks,M09,NA,M,NA,1/5/21,An. rufipes,Freshly fed,main,negative,NA,NA,No match
+M09_0449,yes,M09_4,Yes,M09,M09,M,M,6/15/21,An. funestus,Freshly fed,main,positive,8.69863e-4,main,Same building
+S14_00062,no,NA,No peaks,S14,NA,S,NA,5/26/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,NA,No match
+M06_0223,no,NA,No peaks,M06,NA,M,NA,6/29/21,An. funestus,Freshly fed,main,positive,9.717345e-4,NA,No match
+M17_00045,yes,M17_3,No,M17,M17,M,M,2/16/21,An. funestus,Freshly fed,simba,negative,NA,simba,Same building
+M09_0361,no,NA,No peaks,M09,NA,M,NA,4/27/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M16_00172,yes,M16_2,No,M16,M16,M,M,4/27/21,An. funestus,Freshly fed,main,positive,0.001613969,main,Same building
+M17_00126,yes,M17_4,No,M17,M17,M,M,6/15/21,An. gambiae SS,Freshly fed,simba,positive,0.001585167,simba,Same building
+K05_00167,yes,K05_1,No,K05,K05,K,K,4/19/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M16_00359,no,NA,No peaks,M16,NA,M,NA,6/29/21,An. gambiae SS,Freshly fed,main,positive,8.83429e-4,NA,No match
+S14_00029,yes,S14_5,No,S14,S14,S,S,3/24/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,kitchen,Same building
+K12_00138,no,NA,No,K12,NA,K,NA,5/17/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+M09_0363,yes,M09_8,Yes,M09,M09,M,M,4/27/21,An. funestus,Freshly fed,kitchen,negative,NA,kitchen,Same building
+K01_00110,no,NA,No peaks,K01,NA,K,NA,2/15/21,An. arabiensis,Freshly fed,main,negative,NA,NA,No match
+K12_00123,yes,K12_4,Yes,K12,K12,K,K,4/19/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+K12_00123,yes,K12_5,Yes,K12,K12,K,K,4/19/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M03_00170,yes,M03_1,No,M03,M03,M,M,6/22/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M05_00132,yes,M05_1,No,M05,M05,M,M,6/22/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M07_0615,yes,M07_10,Yes,M07,M07,M,M,6/29/21,An. funestus,Freshly fed,main,positive,0.001605713,main,Same building
+N11_00025,yes,N11_5,No,N11,N11,N,N,6/24/21,An. funestus,Freshly fed,main,negative,NA,kitchen,Same household
+K02_00125,yes,K02_6,No,K02,K02,K,K,10/5/20,An. gambiae SS,Freshly fed,simba,negative,NA,simba2,Same household
+M09_0353,yes,M09_13,No,M09,M09,M,M,4/20/21,An. gambiae SL,Freshly fed,kitchen,positive,2.9440967e-6,kitchen,Same building
+M16_00227,yes,M16_5,No,M16,M16,M,M,5/25/21,An. gambiae SS,Freshly fed,main,positive,1.36342915e-5,main,Same building
+K04_00054,yes,K04_5,No,K04,K04,K,K,6/14/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M09_XX356,yes,M09_4,No,M09,M09,M,M,5/25/21,An. gambiae SL,Freshly fed,main,positive,0.003479731,main,Same building
+M17_00100,yes,M17_4,No,M17,M17,M,M,5/18/21,An. funestus,Freshly fed,simba,negative,NA,simba,Same building
+M03_00113,yes,M03_2,No,M03,M03,M,M,4/20/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M07_0570,yes,M07_10,No,M07,M07,M,M,6/15/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M01_00395,yes,M01_6,No,M01,M01,M,M,6/22/21,An. funestus,Freshly fed,main,positive,0.004648891,main,Same building
+N09_00011,no,NA,No peaks,N09,NA,N,NA,6/24/21,An. demeilloni,Freshly fed,main,positive,8.10103e-4,NA,No match
+M07_00433,yes,M07_1,Yes,M07,M07,M,M,4/20/21,An. gambiae SS,Freshly fed,main,NA,NA,main,Same building
+M07_00433,yes,M07_2,Yes,M07,M07,M,M,4/20/21,An. gambiae SS,Freshly fed,main,NA,NA,main,Same building
+M16_00231,yes,M16_4,No,M16,M16,M,M,5/25/21,An. gambiae SS,Freshly fed,main,NA,NA,main,Same building
+K05_00154,no,NA,No peaks,K05,NA,K,NA,10/26/20,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+K07_00134,no,NA,No peaks,K07,NA,K,NA,6/14/21,An. gambiae SS,Freshly fed,simba,negative,NA,NA,No match
+L05_00020,yes,L05_4,No,L05,L05,L,L,5/28/21,An. gambiae SS,Freshly fed,simba,negative,NA,simba,Same building
+K10_00113,no,NA,No peaks,K10,NA,K,NA,5/24/21,Undetermined,Freshly fed,main,NA,NA,NA,No match
+K05_00316,no,NA,No peaks,K05,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,kitchen,positive,0.004251748,NA,No match
+N16_00003,no,NA,No peaks,N16,NA,N,NA,2/25/21,An. demeilloni,Freshly fed,main,positive,0.002209147,NA,No match
+M16_00119,yes,M16_5,No,M16,M16,M,M,3/16/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+K10_00097,no,NA,No peaks,K10,NA,K,NA,5/17/21,An. gambiae SL,Freshly fed,main,negative,NA,NA,No match
+M09_00524,no,NA,No peaks,M09,NA,M,NA,7/27/21,An. funestus,Freshly fed,kitchen,positive,0.015320197,NA,No match
+S14_00022,no,NA,No peaks,S14,NA,S,NA,10/28/20,An. gambiae SS,Freshly fed,kitchen,negative,NA,NA,No match
+K04_00026,yes,K04_4,No,K04,K04,K,K,10/5/20,An. funestus,Freshly fed,main,negative,NA,main,Same building
+K05_00235,yes,K05_5,No,K05,K05,K,K,6/28/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M17_00067,no,NA,No peaks,M17,NA,M,NA,3/16/21,An. gambiae SS,Freshly fed,simba,NA,NA,NA,No match
+K11_00087,no,NA,No peaks,K11,NA,K,NA,6/28/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+S06_00047,yes,S06_5,No,S06,S06,S,S,7/22/20,An. gambiae SS,Freshly fed,kitchen,negative,NA,main,Same household
+M09_00510,yes,M09_4,No,M09,M09,M,M,7/27/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+N16_00005,yes,N16_3,No,N16,N16,N,N,3/25/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M09_0420,yes,M09_4,No,M09,M09,M,M,5/25/21,An. gambiae SS,Freshly fed,main,positive,0.002011127,main,Same building
+L09_00005,yes,L09_7,Yes,L09,L09,L,L,3/5/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M09_00315,no,NA,No,M09,NA,M,NA,10/27/20,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+S17_00002,yes,S17_1,No,S17,S17,S,S,4/28/21,An. funestus,Freshly fed,main,positive,0.001340045,main,Same building
+K05_00175,yes,K05_1,No,K05,K05,K,K,4/26/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M17_00158,no,NA,No,M17,NA,M,NA,6/22/21,An. funestus,Freshly fed,main,positive,0.001905,NA,No match
+M09_XX351,yes,M09_7,No,M09,M09,M,M,5/25/21,An. gambiae SL,Half-gravid,kitchen,negative,NA,kitchen,Same building
+S16_00034,yes,S16_5,No,S16,S16,S,S,5/26/21,An. gambiae SS,Freshly fed,main,negative,NA,simba,Same household
+K12_00106,yes,K12_7-K14_4,No,K12,K12,K,K,11/2/20,An. gambiae SS,Freshly fed,simba,negative,NA,NA,Same household
+M16_00237,no,NA,No peaks,M16,NA,M,NA,5/25/21,Undetermined,Freshly fed,main,negative,NA,NA,No match
+K15_00057,yes,K15_1,No,K15,K15,K,K,6/21/21,An. gambiae SS,Freshly fed,main,positive,0.003336199,main,Same building
+S01_00124,yes,S01_3,No,S01,S01,S,S,6/16/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,kitchen,Same building
+M09_XX365,yes,M09_4,No,M09,M09,M,M,5/25/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+K02_00208,no,NA,No peaks,K02,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M09_00318,yes,M09_1,No,M09,M09,M,M,12/15/20,An. arabiensis,Freshly fed,main,negative,NA,main,Same building
+M13_00174,no,NA,No peaks,M13,NA,M,NA,8/31/21,An. demeilloni,Freshly fed,main,negative,NA,NA,No match
+S04_00097,no,NA,No,S04,NA,S,NA,5/26/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+S05_00059,yes,S05_2,No,S05,S05,S,S,4/28/21,An. gambiae SS,Freshly fed,simba,negative,NA,simba,Same building
+K13_00079,yes,K16_4,Yes,K13,K16,K,K,12/14/20,An. gambiae SS,Freshly fed,main,negative,NA,main,Same village
+K13_00079,yes,K11_8,Yes,K13,K11,K,K,12/14/20,An. gambiae SS,Freshly fed,main,negative,NA,kitchen,Same village
+L02_00002,yes,L02_3,No,L02,L02,L,L,10/16/20,An. gambiae SS,Freshly fed,simba,negative,NA,simba,Same building
+M04_00109,no,NA,No peaks,M04,NA,M,NA,6/22/21,An. funestus,Freshly fed,main,positive,0.001534992,NA,No match
+L12_00020,no,NA,No peaks,L12,NA,L,NA,8/27/21,An. demeilloni,Freshly fed,main,negative,NA,NA,No match
+K12_00107,no,NA,No peaks,K12,NA,K,NA,11/23/20,An. gambiae SS,Freshly fed,simba,negative,NA,NA,No match
+M03_00130,no,NA,No peaks,M03,NA,M,NA,5/25/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+K15_00058,no,NA,Yes,K15,NA,K,NA,6/21/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M17_00040,yes,M17_3,No,M17,M17,M,M,2/16/21,An. funestus,Freshly fed,simba,negative,NA,simba,Same building
+S14_00069,no,NA,No peaks,S14,NA,S,NA,5/26/21,An. gambiae SS,Freshly fed,simba,negative,NA,NA,No match
+M03_00178,yes,M03_1,No,M03,M03,M,M,6/29/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M07_00446,no,NA,No peaks,M07,NA,M,NA,4/20/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+N16_00051,no,NA,No peaks,N16,NA,N,NA,7/1/21,An. demeilloni,Freshly fed,main,negative,NA,NA,No match
+S04_00111,yes,S01_15,Yes,S04,S01,S,S,5/26/21,An. gambiae SS,Freshly fed,main,positive,8.816853e-6,other,Same village
+S04_00111,yes,S04_8,Yes,S04,S04,S,S,5/26/21,An. gambiae SS,Freshly fed,main,positive,8.816853e-6,main,Same building
+M17_00112,yes,M17_4,No,M17,M17,M,M,5/25/21,An. funestus,Freshly fed,simba,NA,NA,simba,Same building
+K05_00321,yes,K05_3,No,K05,K05,K,K,5/24/21,An. gambiae SS,Freshly fed,kitchen,positive,0.018391152,kitchen,Same building
+M09_00337,yes,M09_4,No,M09,M09,M,M,3/23/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M09_0374,yes,M09_8,No,M09,M09,M,M,5/18/21,An. gambiae SS,Freshly fed,kitchen,NA,NA,kitchen,Same building
+K12_00118,yes,K12_4,No,K12,K12,K,K,2/22/21,An. funestus,Freshly fed,main,positive,0.002352614,main,Same building
+M06_0215,yes,M06_1,No,M06,M06,M,M,6/22/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+S05_00061,no,NA,No peaks,S05,NA,S,NA,5/19/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M07_0608,yes,M07_10,No,M07,M07,M,M,6/22/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+N11_00016,yes,N11_5,No,N11,N11,N,N,5/27/21,An. gambiae SS,Freshly fed,main,negative,NA,kitchen,Same household
+S16_00008,yes,S16_5,No,S16,S16,S,S,7/8/20,An. gambiae SS,Freshly fed,main,negative,NA,simba,Same household
+S04_00100,yes,S04_8,No,S04,S04,S,S,5/26/21,An. funestus,Freshly fed,main,NA,NA,main,Same building
+M09_0378,yes,M09_3,No,M09,M09,M,M,5/18/21,Undetermined,Freshly fed,kitchen,negative,NA,kitchen,Same building
+N11_00022,yes,N11_16,No,N11,N11,N,N,6/24/21,An. funestus,Freshly fed,main,negative,NA,kitchen,Same household
+M17_00130,yes,M17_4,No,M17,M17,M,M,6/15/21,Undetermined,Freshly fed,simba,positive,2.81480775e-4,simba,Same building
+K10_00108,no,NA,No peaks,K10,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+L16_00040,no,NA,No peaks,L16,NA,L,NA,7/9/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M09_00525,yes,M09_7,Yes,M09,M09,M,M,7/27/21,An. funestus,Freshly fed,kitchen,positive,0.001019824,kitchen,Same building
+M09_00525,yes,M09_13,Yes,M09,M09,M,M,7/27/21,An. funestus,Freshly fed,kitchen,positive,0.001019824,kitchen,Same building
+M16_00295,yes,M16_6,No,M16,M16,M,M,6/15/21,An. funestus,Freshly fed,simba,negative,NA,simba,Same building
+N15_00020,yes,N15_3,No,N15,N15,N,N,5/27/21,An. gambiae SS,Freshly fed,simba,negative,NA,simba,Same building
+M06_0200,yes,M06_1,No,M06,M06,M,M,6/22/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M03_00112,yes,M03_1,No,M03,M03,M,M,3/30/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+K05_00186,no,NA,No,K05,NA,K,NA,5/17/21,An. gambiae SS,Freshly fed,main,positive,0.005401834,NA,No match
+S10_00107,no,NA,No peaks,S10,NA,S,NA,6/16/21,An. gambiae SS,Freshly fed,simba,negative,NA,NA,No match
+K13_00073,no,NA,No peaks,K13,NA,K,NA,8/24/20,An. coustani,Freshly fed,main,negative,NA,NA,No match
+K02_00210,yes,K02_7,Yes,K02,K02,K,K,5/24/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+K11_00091,yes,K11_5-K13_12,Yes,K11,K11,K,K,6/28/21,An. funestus,Freshly fed,main,negative,NA,NA,Same household
+K11_00091,yes,K11_7,Yes,K11,K11,K,K,6/28/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M07_0577,yes,M07_10,Yes,M07,M07,M,M,6/15/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M07_00435,no,NA,No,M07,NA,M,NA,4/20/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+S10_00086,no,NA,No peaks,S10,NA,S,NA,5/26/21,An. gambiae SS,Freshly fed,simba,negative,NA,NA,No match
+S10_00035,no,NA,No peaks,S10,NA,S,NA,8/26/20,An. demeilloni,Freshly fed,main,negative,NA,NA,No match
+S14_00061,no,NA,No peaks,S14,NA,S,NA,5/26/21,An. gambiae SS,Freshly fed,kitchen,NA,NA,NA,No match
+S02_00110,yes,S02_7,No,S02,S02,S,S,5/19/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,other,Same household
+M16_00230,no,NA,No peaks,M16,NA,M,NA,5/25/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+L09_00031,no,NA,No peaks,L09,NA,L,NA,7/2/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+N08_00027,yes,N08_3,No,N08,N08,N,N,6/24/21,An. funestus,Freshly fed,simba,negative,NA,main,Same household
+M06_0214,yes,M06_1,No,M06,M06,M,M,6/22/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M07_0548,no,NA,No peaks,M07,NA,M,NA,5/25/21,An. gambiae SS,Freshly fed,main,NA,NA,NA,No match
+M01_00336,yes,M01_5,No,M01,M01,M,M,6/15/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M16_00331,yes,M16_5,No,M16,M16,M,M,6/22/21,An. funestus,Freshly fed,main,positive,0.003531919,main,Same building
+S04_00115,yes,S04_8,Yes,S04,S04,S,S,5/26/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+S04_00115,yes,S04_4,Yes,S04,S04,S,S,5/26/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+K10_00076,no,NA,No peaks,K10,NA,K,NA,8/24/20,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M05_00147,no,NA,No peaks,M05,NA,M,NA,8/17/21,An. rufipes,Freshly fed,main,negative,NA,NA,No match
+M07_00412,yes,M07_10,Yes,M07,M07,M,M,2/16/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+N09_00005,yes,N09_1,No,N09,N09,N,N,11/5/20,An. funestus,Freshly fed,simba,negative,NA,main,Same household
+N14_00046,no,NA,No peaks,N14,NA,N,NA,7/1/21,An. gambiae SS,Freshly fed,simba,positive,8.5157e-4,NA,No match
+S01_00101,yes,S01_2,No,S01,S01,S,S,7/22/20,An. gambiae SS,Freshly fed,kitchen,negative,NA,kitchen,Same building
+K09_00043,yes,K09_12,No,K09,K09,K,K,7/27/20,An. gambiae SS,Freshly fed,main,negative,NA,simba1,Same household
+M01_00390,yes,M01_4,Yes,M01,M01,M,M,6/22/21,An. funestus,Freshly fed,main,positive,0.010214866,main,Same building
+M01_00390,yes,M01_11,Yes,M01,M01,M,M,6/22/21,An. funestus,Freshly fed,main,positive,0.010214866,main,Same building
+M01_0413,yes,M01_5,No,M01,M01,M,M,6/22/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+S09_00063,no,NA,No peaks,S09,NA,S,NA,6/16/21,An. gambiae SS,Freshly fed,main,positive,8.9245645e-4,NA,No match
+K05_00205,yes,K05_6,No,K05,K05,K,K,5/17/21,An. gambiae SS,Freshly fed,main,positive,0.001948876,main,Same building
+S09_00068,no,NA,No peaks,S09,NA,S,NA,6/16/21,An. gambiae SS,Freshly fed,simba,negative,NA,NA,No match
+S11_00029,no,NA,No,S11,NA,S,NA,2/17/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+K05_00148,yes,K05_3,No,K05,K05,K,K,10/5/20,An. gambiae SS,Freshly fed,main,negative,NA,kitchen,Same household
+K07_00126,no,NA,No peaks,K07,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,simba,negative,NA,NA,No match
+M01_00370,yes,M01_5,No,M01,M01,M,M,6/15/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M16_00336,yes,M16_8,No,M16,M16,M,M,6/22/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+L18_00005,yes,L18_2,Yes,L18,L18,L,L,2/26/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+L05_00033,yes,L05_6,No,L05,L05,L,L,7/9/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+K03_00093,no,NA,No peaks,K03,NA,K,NA,4/26/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+N13_00005,yes,N13_5,No,N13,N13,N,N,9/3/20,An. funestus,Freshly fed,simba,positive,2.30772335e-6,simba,Same building
+M18_00003,no,NA,No peaks,M18,NA,M,NA,4/27/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+K01_00164,no,NA,No peaks,K01,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M09_00349,yes,M09_8,Yes,M09,M09,M,M,4/20/21,An. funestus,Freshly fed,kitchen,positive,1.63687405e-5,kitchen,Same building
+M01_00396,no,NA,Yes,M01,NA,M,NA,6/22/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+L07_00001,no,NA,No peaks,L07,NA,L,NA,8/6/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+L09_00016,yes,L09_3,No,L09,L09,L,L,5/7/21,An. funestus,Freshly fed,simba,negative,NA,simba,Same building
+M07_00427,no,NA,No peaks,M07,NA,M,NA,2/23/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+S10_00088,no,NA,No peaks,S10,NA,S,NA,5/26/21,An. gambiae SS,Freshly fed,main,NA,NA,NA,No match
+M05_00144,no,NA,No,M05,NA,M,NA,7/27/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+M06_00133,no,NA,No peaks,M06,NA,M,NA,4/27/21,An. gambiae SS,Freshly fed,main,positive,0.009064639,NA,No match
+M07_0477,yes,M07_2,No,M07,M07,M,M,4/27/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+N04_00012,yes,N04_3,No,N04,N04,N,N,5/27/21,An. gambiae SS,Freshly fed,simba,NA,NA,simba,Same building
+M16_00161,yes,M16_3,No,M16,M16,M,M,4/27/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M06_0224,yes,M06_2,No,M06,M06,M,M,6/29/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+S10_00047,yes,S10_8,No,S10,S10,S,S,4/28/21,An. gambiae SS,Freshly fed,simba,negative,NA,simba,Same building
+M09_00316,yes,M09_3,Yes,M09,M09,M,M,10/27/20,An. gambiae SS,Freshly fed,main,negative,NA,kitchen,Same household
+S10_00044,yes,S10_7,No,S10,S10,S,S,4/21/21,An. gambiae SS,Freshly fed,simba,positive,0.053993603,simba,Same building
+S09_00050,no,NA,No,S09,NA,S,NA,4/21/21,An. funestus,Freshly fed,simba,negative,NA,NA,No match
+K05_00232,yes,K05_5,No,K05,K05,K,K,6/28/21,Undetermined,Freshly fed,main,negative,NA,main,Same building
+K15_00031,yes,K15_1,No,K15,K15,K,K,5/24/21,An. gambiae SS,Freshly fed,main,positive,0.007906749,main,Same building
+M09_00317,no,NA,No,M09,NA,M,NA,11/3/20,An. funestus,Freshly fed,main,negative,NA,NA,No match
+M17_00038,no,NA,No peaks,M17,NA,M,NA,2/16/21,An. funestus,Freshly fed,simba,negative,NA,NA,No match
+S02_00067,yes,S02_7,No,S02,S02,S,S,7/8/20,An. gambiae SS,Freshly fed,main,negative,NA,other,Same household
+K13_00137,no,NA,No,K13,NA,K,NA,5/17/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M09_00344,no,NA,No,M09,NA,M,NA,3/30/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+M17_00090,yes,M17_4,No,M17,M17,M,M,5/18/21,An. funestus,Freshly fed,simba,negative,NA,simba,Same building
+N08_00032,yes,N08_3,No,N08,N08,N,N,7/1/21,An. funestus,Freshly fed,simba,negative,NA,main,Same household
+K10_00106,no,NA,No peaks,K10,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,main,NA,NA,NA,No match
+M03_0152,no,NA,No peaks,M03,NA,M,NA,6/15/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M09_00335,no,NA,No,M09,NA,M,NA,3/16/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+L05_00018,yes,L14_1,No,L05,L14,L,L,5/7/21,An. funestus,Freshly fed,main,negative,NA,main,Same village
+K09_00055,no,NA,No peaks,K09,NA,K,NA,3/29/21,An. gambiae SS,Freshly fed,simba,negative,NA,NA,No match
+M07_0470,yes,M07_2,No,M07,M07,M,M,4/27/21,An. gambiae SL,Freshly fed,main,negative,NA,main,Same building
+K13_00155,no,NA,No,K13,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M03_00107,yes,M03_1,No,M03,M03,M,M,3/30/21,An. funestus,Freshly fed,main,positive,0.001232081,main,Same building
+M09_0381,yes,M09_4,No,M09,M09,M,M,5/18/21,An. gambiae SS,Freshly fed,main,NA,NA,main,Same building
+M09_0356,no,NA,No,M09,NA,M,NA,4/20/21,An. gambiae SL,Freshly fed,kitchen,negative,NA,NA,No match
+S10_00038,no,NA,No peaks,S10,NA,S,NA,10/28/20,An. gambiae SS,Freshly fed,simba,negative,NA,NA,No match
+M03_00185,yes,M03_1,No,M03,M03,M,M,8/31/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M05_00095,yes,M05_3,No,M05,M05,M,M,8/25/20,An. funestus,Freshly fed,main,negative,NA,main,Same building
+S10_00087,no,NA,No peaks,S10,NA,S,NA,5/26/21,An. gambiae SS,Freshly fed,main,NA,NA,NA,No match
+M16_00197,yes,M16_5,No,M16,M16,M,M,5/25/21,Undetermined,Freshly fed,main,positive,1.0098879e-4,main,Same building
+M17_00182,yes,M17_4,No,M17,M17,M,M,8/24/21,An. funestus,Freshly fed,kitchen,negative,NA,simba,Same household
+M09_0362,no,NA,No peaks,M09,NA,M,NA,4/27/21,An. gambiae SL,Freshly fed,kitchen,negative,NA,NA,No match
+K15_00055,yes,K15_4,No,K15,K15,K,K,6/21/21,An. gambiae SS,Freshly fed,main,positive,0.003862934,main,Same building
+S16_00010,yes,S16_5,No,S16,S16,S,S,7/22/20,An. gambiae SS,Freshly fed,simba,negative,NA,simba,Same building
+M16_00160,yes,M16_3,No,M16,M16,M,M,4/27/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+S02_00113,yes,S02_4,Yes,S02,S02,S,S,5/19/21,An. gambiae SS,Freshly fed,kitchen,positive,0.014889992,kitchen,Same building
+L01_00006,no,NA,No peaks,L01,NA,L,NA,3/26/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+K13_00164,no,NA,No peaks,K13,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+S10_00083,no,NA,No peaks,S10,NA,S,NA,5/26/21,An. gambiae SS,Freshly fed,simba,negative,NA,NA,No match
+K01_00108,no,NA,No peaks,K01,NA,K,NA,1/25/21,An. arabiensis,Freshly fed,main,positive,0.002627906,NA,No match
+M16_00165,yes,M16_3,No,M16,M16,M,M,4/27/21,An. gambiae SL,Freshly fed,main,negative,NA,main,Same building
+S02_00107,yes,S02_4,No,S02,S02,S,S,5/19/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,kitchen,Same building
+M17_00138,no,NA,No peaks,M17,NA,M,NA,6/15/21,An. funestus,Freshly fed,simba,positive,0.001494081,NA,No match
+K13_00183,yes,K13_15-K16_3,Yes,K13,K13,K,K,5/24/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,Same household
+M16_00357,yes,M16_4,No,M16,M16,M,M,6/22/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+S14_00017,yes,S14_2,No,S14,S14,S,S,10/21/20,An. gambiae SS,Freshly fed,kitchen,negative,NA,kitchen,Same building
+M17_00065,yes,M17_4,No,M17,M17,M,M,3/16/21,An. funestus,Freshly fed,simba,negative,NA,simba,Same building
+K02_00124,yes,K02_5,No,K02,K02,K,K,9/14/20,An. funestus,Freshly fed,main,negative,NA,simba,Same household
+M09_00478,yes,M09_7,No,M09,M09,M,M,6/29/21,An. gambiae SS,Freshly fed,kitchen,positive,0.004173737,kitchen,Same building
+M17_00132,no,NA,No peaks,M17,NA,M,NA,6/15/21,An. gambiae SS,Freshly fed,simba,positive,0.001847352,NA,No match
+M01_00195,yes,M01_6,No,M01,M01,M,M,4/20/21,An. gambiae SS,Freshly fed,main,positive,3.32758795e-6,main,Same building
+S02_00099,yes,S02_4,No,S02,S02,S,S,5/19/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,kitchen,Same building
+M17_00035,yes,M17_3,No,M17,M17,M,M,2/16/21,An. gambiae SS,Freshly fed,simba,negative,NA,simba,Same building
+M01_00161,yes,M01_4,No,M01,M01,M,M,1/5/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+K15_00023,yes,K15_3,No,K15,K15,K,K,5/17/21,An. gambiae SS,Freshly fed,main,positive,0.001928152,main,Same building
+M17_00150,no,NA,No peaks,M17,NA,M,NA,6/15/21,An. gambiae SS,Freshly fed,simba,negative,NA,NA,No match
+M07_0579,yes,M07_2,No,M07,M07,M,M,6/15/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M09_00541,no,NA,No peaks,M09,NA,M,NA,8/24/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+M17_00149,no,NA,No peaks,M17,NA,M,NA,6/15/21,An. funestus,Freshly fed,simba,negative,NA,NA,No match
+K13_00078,no,NA,No peaks,K13,NA,K,NA,11/30/20,An. funestus,Freshly fed,main,negative,NA,NA,No match
+L12_00021,no,NA,No peaks,L12,NA,L,NA,8/27/21,An. demeilloni,Freshly fed,main,negative,NA,NA,No match
+M01_00398,yes,M01_5,No,M01,M01,M,M,6/22/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M07_0480,yes,M07_1,No,M07,M07,M,M,4/27/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+S04_00093,yes,S04_8,Yes,S04,S04,S,S,5/26/21,An. gambiae SS,Freshly fed,main,NA,NA,main,Same building
+S04_00093,yes,S04_12,Yes,S04,S04,S,S,5/26/21,An. gambiae SS,Freshly fed,main,NA,NA,main,Same building
+K02_00206,no,NA,No peaks,K02,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,simba2,negative,NA,NA,No match
+K12_00146,no,NA,No peaks,K12,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,simba,negative,NA,NA,No match
+L05_00019,yes,L05_7,No,L05,L05,L,L,5/28/21,An. funestus,Freshly fed,main,NA,NA,main,Same building
+S02_00124,yes,S02_3,Yes,S02,S02,S,S,5/26/21,An. gambiae SS,Freshly fed,main,NA,NA,main,Same building
+S02_00124,yes,S02_5,Yes,S02,S02,S,S,5/26/21,An. gambiae SS,Freshly fed,main,NA,NA,main,Same building
+K05_00194,no,NA,No peaks,K05,NA,K,NA,5/17/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+S05_00046,yes,S05_5,No,S05,S05,S,S,11/4/20,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M05_00139,yes,M05_3,No,M05,M05,M,M,7/27/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+K05_00203,yes,K05_4,No,K05,K05,K,K,5/17/21,An. gambiae SS,Freshly fed,main,NA,NA,main,Same building
+M01_00356,yes,M01_5,No,M01,M01,M,M,6/15/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+N13_00024,no,NA,No peaks,N13,NA,N,NA,4/29/21,An. gambiae SS,Freshly fed,simba,negative,NA,NA,No match
+M09_0396,yes,M14_6,No,M09,M14,M,M,5/18/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same village
+N15_00030,yes,N15_3,No,N15,N15,N,N,6/24/21,An. funestus,Freshly fed,simba,negative,NA,simba,Same building
+K05_00145,yes,K05_3,No,K05,K05,K,K,9/21/20,An. gambiae SS,Freshly fed,main,negative,NA,kitchen,Same household
+K14_00076,no,NA,No peaks,K14,NA,K,NA,5/17/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+K05_00213,yes,K05_3,No,K05,K05,K,K,5/17/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,kitchen,Same building
+L09_00017,yes,L09_9,No,L09,L09,L,L,5/28/21,An. gambiae SS,Freshly fed,simba,negative,NA,simba,Same building
+M03_00108,yes,M03_2,Yes,M03,M03,M,M,3/30/21,An. funestus,Freshly fed,main,positive,0.003871366,main,Same building
+M03_00108,yes,M03_3,Yes,M03,M03,M,M,3/30/21,An. funestus,Freshly fed,main,positive,0.003871366,main,Same building
+M09_00346,no,NA,No,M09,NA,M,NA,3/30/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+K05_00233,no,NA,No peaks,K05,NA,K,NA,6/28/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+M17_00115,yes,M17_4,No,M17,M17,M,M,5/25/21,An. gambiae SS,Freshly fed,simba,positive,1.49038475e-5,simba,Same building
+L02_00047,no,NA,Yes,L02,NA,L,NA,4/30/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+S04_00075,yes,S04_1,No,S04,S04,S,S,10/28/20,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+L08_00027,yes,L08_6,No,L08,L08,L,L,5/28/21,An. gambiae SS,Freshly fed,simba,negative,NA,main,Same household
+K11_00039,no,NA,No,K11,NA,K,NA,9/14/20,An. gambiae SS,Freshly fed,main,positive,3.1865764e-6,NA,No match
+M17_00073,yes,M17_4,No,M17,M17,M,M,3/16/21,An. funestus,Freshly fed,simba,negative,NA,simba,Same building
+S14_00021,yes,S14_4,No,S14,S14,S,S,10/28/20,An. gambiae SS,Freshly fed,kitchen,negative,NA,kitchen,Same building
+K01_00120,yes,K01_4,Yes,K01,K01,K,K,4/26/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M07_00443,yes,M07_7,No,M07,M07,M,M,4/20/21,An. gambiae SS,Freshly fed,main,positive,8.336852e-6,main,Same building
+M16_00162,yes,M16_3,No,M16,M16,M,M,4/27/21,An. funestus,Freshly fed,main,NA,NA,main,Same building
+M17_00114,yes,M17_4,No,M17,M17,M,M,5/25/21,An. funestus,Freshly fed,simba,NA,NA,simba,Same building
+S08_00033,yes,S08_7,No,S08,S08,S,S,6/16/21,An. gambiae SS,Freshly fed,main,positive,0.001856713,main,Same building
+K02_00133,yes,K02_8,Yes,K02,K02,K,K,10/19/20,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+K02_00133,yes,K02_13,Yes,K02,K02,K,K,10/19/20,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M09_0368,no,NA,No,M09,NA,M,NA,5/18/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,NA,No match
+K02_00220,no,NA,No peaks,K02,NA,K,NA,6/14/21,An. gambiae SS,Freshly fed,main,positive,0.001315428,NA,No match
+K03_00102,no,NA,No peaks,K03,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M09_0372,yes,M09_8,No,M09,M09,M,M,5/18/21,An. gambiae SS,Freshly fed,kitchen,NA,NA,kitchen,Same building
+S05_00044,yes,S05_9,No,S05,S05,S,S,10/28/20,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+L08_00028,yes,L08_7,Yes,L08,L08,L,L,5/28/21,Undetermined,Freshly fed,main,negative,NA,simba,Same household
+M03_0154,no,NA,No peaks,M03,NA,M,NA,6/15/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+M07_00445,no,NA,No peaks,M07,NA,M,NA,4/20/21,An. arabiensis,Freshly fed,main,negative,NA,NA,No match
+S14_00068,no,NA,No peaks,S14,NA,S,NA,5/26/21,An. gambiae SS,Freshly fed,simba,negative,NA,NA,No match
+M16_00234,no,NA,No peaks,M16,NA,M,NA,5/25/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+M17_00135,no,NA,No,M17,NA,M,NA,6/15/21,Undetermined,Freshly fed,simba,negative,NA,NA,No match
+N13_00043,yes,N13_5,No,N13,N13,N,N,5/27/21,An. gambiae SS,Freshly fed,simba1,NA,NA,simba,Same household
+S04_00087,yes,S04_6,No,S04,S04,S,S,4/28/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+S02_00086,yes,S02_4,Yes,S02,S02,S,S,4/21/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,kitchen,Same building
+L18_00020,yes,L18_6,No,L18,L18,L,L,7/9/21,An. gambiae SS,Freshly fed,main,positive,0.003539482,main,Same building
+M09_0397,yes,M09_4,Yes,M09,M09,M,M,5/18/21,Undetermined,Freshly fed,main,negative,NA,main,Same building
+M09_0397,yes,M09_12,Yes,M09,M09,M,M,5/18/21,Undetermined,Freshly fed,main,negative,NA,main,Same building
+M09_XX354,yes,M09_7,No,M09,M09,M,M,5/25/21,An. gambiae SL,Freshly fed,kitchen,negative,NA,kitchen,Same building
+M16_00264,yes,M16_4,No,M16,M16,M,M,6/15/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M07_0516,no,NA,No,M07,NA,M,NA,5/18/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+N04_00008,yes,N04_3,No,N04,N04,N,N,2/4/21,An. funestus,Freshly fed,main,negative,NA,simba,Same household
+K12_00100,yes,K12_7-K14_4,No,K12,K12,K,K,9/21/20,An. gambiae SS,Freshly fed,simba,negative,NA,NA,Same household
+K12_00135,no,NA,No,K12,NA,K,NA,5/17/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M09_0444,no,NA,No,M09,NA,M,NA,6/15/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+K09_00062,no,NA,No peaks,K09,NA,K,NA,5/17/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M07_00410,no,NA,No peaks,M07,NA,M,NA,2/16/21,An. rufipes,Freshly fed,main,negative,NA,NA,No match
+M09_00323,no,NA,No peaks,M09,NA,M,NA,1/19/21,An. rufipes,Freshly fed,main,negative,NA,NA,No match
+M09_0367,yes,M09_7,No,M09,M09,M,M,5/18/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,kitchen,Same building
+M13_00165,no,NA,No peaks,M13,NA,M,NA,6/22/21,An. arabiensis,Freshly fed,main,negative,NA,NA,No match
+K17_00003,yes,K17_1,No,K17,K17,K,K,11/2/20,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M09_0438,yes,M09_3,Yes,M09,M09,M,M,6/15/21,An. funestus,Freshly fed,main,positive,0.009667283,kitchen,Same household
+M09_00464,no,NA,No peaks,M09,NA,M,NA,6/22/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+M09_0373,yes,M09_7,No,M09,M09,M,M,5/18/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,kitchen,Same building
+M09_0445,no,NA,No peaks,M09,NA,M,NA,6/15/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+L02_00005,yes,L02_5,No,L02,L02,L,L,4/9/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+S04_00114,no,NA,No,S04,NA,S,NA,5/26/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M09_0442,yes,M09_4,No,M09,M09,M,M,6/15/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M09_00462,yes,N09_1,Yes,M09,N09,M,N,6/22/21,An. funestus,Freshly fed,main,negative,NA,main,Different villages
+K10_00101,no,NA,No peaks,K10,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M03_0153,no,NA,No peaks,M03,NA,M,NA,6/15/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M09_00485,yes,N03_3,Yes,M09,N03,M,N,6/29/21,An. gambiae SS,Freshly fed,main,negative,NA,simba,Different villages
+M09_00485,yes,N11_6,Yes,M09,N11,M,N,6/29/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Different villages
+K07_00094,yes,K07_11,No,K07,K07,K,K,8/17/20,An. funestus,Freshly fed,main,negative,NA,main,Same building
+K05_00193,yes,K05_4,No,K05,K05,K,K,5/17/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+N04_00011,yes,N04_6,No,N04,N04,N,N,4/29/21,An. funestus,Freshly fed,main,negative,NA,simba,Same household
+S09_00064,yes,S09_5,No,S09,S09,S,S,6/16/21,An. gambiae SS,Freshly fed,main,negative,NA,simba,Same household
+K02_00122,yes,K02_6,No,K02,K02,K,K,8/31/20,An. funestus,Freshly fed,simba,negative,NA,simba2,Same household
+M01_0414,no,NA,No peaks,M01,NA,M,NA,6/29/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+S02_00109,yes,S02_4,No,S02,S02,S,S,5/19/21,An. funestus,Freshly fed,kitchen,negative,NA,kitchen,Same building
+K01_00129,yes,K01_5,No,K01,K01,K,K,5/17/21,An. gambiae SS,Freshly fed,main,positive,0.07857009,main,Same building
+M09_00479,yes,M09_7,Yes,M09,M09,M,M,6/29/21,An. funestus,Freshly fed,kitchen,positive,0.012744597,kitchen,Same building
+M09_00479,yes,M09_13,Yes,M09,M09,M,M,6/29/21,An. funestus,Freshly fed,kitchen,positive,0.012744597,kitchen,Same building
+M01_00347,yes,M01_6,No,M01,M01,M,M,6/15/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+S09_00075,yes,S09_1,No,S09,S09,S,S,6/23/21,Undetermined,Freshly fed,main,negative,NA,main,Same building
+S14_00064,no,NA,No peaks,S14,NA,S,NA,5/26/21,An. gambiae SS,Freshly fed,simba,negative,NA,NA,No match
+S02_00108,yes,S02_4,No,S02,S02,S,S,5/19/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,kitchen,Same building
+K10_00107,no,NA,No peaks,K10,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+S13_00022,yes,S13_3,Yes,S13,S13,S,S,5/26/21,An. gambiae SS,Freshly fed,main,NA,NA,main,Same building
+S13_00022,yes,S13_5,Yes,S13,S13,S,S,5/26/21,An. gambiae SS,Freshly fed,main,NA,NA,main,Same building
+K04_00025,yes,K04_2,Yes,K04,K04,K,K,9/21/20,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+K04_00025,yes,K04_5,Yes,K04,K04,K,K,9/21/20,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+K13_00180,yes,K13_3,Yes,K13,K13,K,K,5/24/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M16_00242,no,NA,No peaks,M16,NA,M,NA,5/25/21,An. gambiae SL,Freshly fed,main,negative,NA,NA,No match
+S10_00095,no,NA,No peaks,S10,NA,S,NA,6/16/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+K10_00096,no,NA,No peaks,K10,NA,K,NA,5/17/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+S04_00108,yes,S04_6,No,S04,S04,S,S,5/26/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+K02_00157,no,NA,No peaks,K02,NA,K,NA,2/15/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M09_00345,yes,M14_6,No,M09,M14,M,M,3/30/21,An. funestus,Freshly fed,main,negative,NA,main,Same village
+K13_00130,yes,K13_3,No,K13,K13,K,K,5/17/21,An. gambiae SS,Freshly fed,main,positive,4.7990886e-4,main,Same building
+S02_00116,yes,S02_7,No,S02,S02,S,S,5/19/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,other,Same household
+L19_00001,yes,L19_1,No,L19,L19,L,L,5/7/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M17_00133,no,NA,No peaks,M17,NA,M,NA,6/15/21,An. funestus,Freshly fed,simba,positive,0.00321246,NA,No match
+N16_00001,no,NA,No peaks,N16,NA,N,NA,1/28/21,An. demeilloni,Freshly fed,main,negative,NA,NA,No match
+N15_00015,yes,N15_3,No,N15,N15,N,N,4/29/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,simba,Same household
+S05_00039,yes,S05_3,No,S05,S05,S,S,7/22/20,An. gambiae SS,Freshly fed,simba,negative,NA,main,Same household
+M09_00313,yes,M09_13,No,M09,M09,M,M,10/6/20,An. gambiae SS,Freshly fed,main,positive,2.8648826e-6,kitchen,Same household
+K02_00144,yes,K02_6,No,K02,K02,K,K,11/23/20,An. funestus,Freshly fed,simba2,negative,NA,simba2,Same building
+M07_0542,yes,M07_10,No,M07,M07,M,M,5/25/21,An. gambiae SS,Freshly fed,main,NA,NA,main,Same building
+L04_00010,yes,L04_3,No,L04,L04,L,L,5/7/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M09_00463,yes,M09_4,Yes,M09,M09,M,M,6/22/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+S04_00113,yes,S04_8,No,S04,S04,S,S,5/26/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M01_0417,no,NA,No peaks,M01,NA,M,NA,8/24/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+M01_00344,yes,M01_1,No,M01,M01,M,M,6/15/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M16_00233,no,NA,No peaks,M16,NA,M,NA,5/25/21,Undetermined,Freshly fed,main,negative,NA,NA,No match
+K10_00102,no,NA,Yes,K10,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M17_00148,no,NA,No peaks,M17,NA,M,NA,6/15/21,An. funestus,Freshly fed,simba,positive,0.008441162,NA,No match
+L01_00008,yes,L01_1,No,L01,L01,L,L,3/5/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M17_00107,yes,M17_4,No,M17,M17,M,M,5/18/21,An. gambiae SS,Freshly fed,simba,positive,3.21777165e-6,simba,Same building
+M17_00066,no,NA,No peaks,M17,NA,M,NA,3/16/21,An. funestus,Freshly fed,simba,negative,NA,NA,No match
+N15_00005,no,NA,No,N15,NA,N,NA,8/13/20,An. funestus,Freshly fed,main,negative,NA,NA,No match
+K09_00044,no,NA,No,K09,NA,K,NA,10/5/20,An. arabiensis,Freshly fed,main,negative,NA,NA,No match
+K15_00054,yes,K15_3,No,K15,K15,K,K,6/21/21,An. gambiae SS,Freshly fed,main,positive,0.009987436,main,Same building
+L04_00012,no,NA,No,L04,NA,L,NA,6/4/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M09_00328,yes,N15_3,Yes,M09,N15,M,N,2/16/21,An. funestus,Freshly fed,kitchen,negative,NA,simba,Different villages
+M09_00328,yes,M09_8,Yes,M09,M09,M,M,2/16/21,An. funestus,Freshly fed,kitchen,negative,NA,kitchen,Same building
+K15_00030,yes,K15_1,No,K15,K15,K,K,5/24/21,An. gambiae SS,Freshly fed,main,positive,0.004966817,main,Same building
+L02_00006,yes,L02_5,No,L02,L02,L,L,4/9/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M17_00144,no,NA,No,M17,NA,M,NA,6/15/21,An. funestus,Freshly fed,simba,positive,0.004289213,NA,No match
+M17_00092,yes,M17_4,No,M17,M17,M,M,5/18/21,An. funestus,Freshly fed,simba,NA,NA,simba,Same building
+S04_00085,yes,S04_4,No,S04,S04,S,S,4/28/21,An. gambiae SS,Freshly fed,main,positive,0.001300023,main,Same building
+M09_00507,no,NA,No,M09,NA,M,NA,7/27/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+K05_00210,no,NA,No peaks,K05,NA,K,NA,5/17/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,NA,No match
+M03_00144,no,NA,No,M03,NA,M,NA,5/25/21,An. funestus,Freshly fed,main,positive,2.3460478e-4,NA,No match
+M17_00120,yes,M17_4,No,M17,M17,M,M,5/25/21,An. gambiae SS,Freshly fed,simba,positive,4.08981165e-5,simba,Same building
+N13_00037,yes,N13_5,No,N13,N13,N,N,5/27/21,An. gambiae SS,Freshly fed,simba1,negative,NA,simba,Same household
+S02_00091,yes,S02_7,No,S02,S02,S,S,4/28/21,An. gambiae SS,Freshly fed,main,negative,NA,other,Same household
+M01_00373,no,NA,No,M01,NA,M,NA,6/15/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+K05_00329,yes,K05_4,Yes,K05,K05,K,K,6/21/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+K05_00329,yes,K05_5,Yes,K05,K05,K,K,6/21/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M16_00185,yes,M16_4,No,M16,M16,M,M,5/25/21,An. gambiae SL,Freshly fed,main,negative,NA,main,Same building
+M07_00407,no,NA,No,M07,NA,M,NA,1/5/21,An. funestus,Freshly fed,main,NA,NA,NA,No match
+S14_00060,yes,S14_4,No,S14,S14,S,S,5/26/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,kitchen,Same building
+S01_00126,no,NA,No peaks,S01,NA,S,NA,7/28/21,An. demeilloni,Freshly fed,main,negative,NA,NA,No match
+K12_00172,yes,K12_4,No,K12,K12,K,K,8/30/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+K05_00234,yes,K05_5,No,K05,K05,K,K,6/28/21,An. gambiae SS,Freshly fed,main,positive,2.2732459e-4,main,Same building
+M01_0401,yes,M01_5,No,M01,M01,M,M,6/22/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M07_0575,yes,M07_10,No,M07,M07,M,M,6/15/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M09_0371,yes,M09_8,No,M09,M09,M,M,5/18/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,kitchen,Same building
+L05_00030,yes,L05_5,No,L05,L05,L,L,6/25/21,An. gambiae SS,Freshly fed,main,positive,0.001450004,main,Same building
+N15_00039,yes,N15_5,No,N15,N15,N,N,6/24/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+S04_00095,yes,S04_8,Yes,S04,S04,S,S,5/26/21,An. gambiae SS,Freshly fed,main,positive,6.149282e-6,main,Same building
+M09_0370,yes,M09_7,No,M09,M09,M,M,5/18/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,kitchen,Same building
+S01_00122,no,NA,No peaks,S01,NA,S,NA,6/16/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+S10_00089,no,NA,No peaks,S10,NA,S,NA,5/26/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+K13_00131,no,NA,No,K13,NA,K,NA,5/17/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+L16_00028,no,NA,No,L16,NA,L,NA,5/7/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+S10_00105,no,NA,No peaks,S10,NA,S,NA,6/16/21,An. gambiae SS,Freshly fed,simba,negative,NA,NA,No match
+K13_00157,no,NA,No,K13,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,main,positive,0.00341555,NA,No match
+M03_00114,no,NA,No peaks,M03,NA,M,NA,4/20/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+N08_00004,no,NA,No,N08,NA,N,NA,2/25/21,An. demeilloni,Freshly fed,main,negative,NA,NA,No match
+M07_00448,yes,M07_7,No,M07,M07,M,M,4/20/21,An. gambiae SS,Freshly fed,main,positive,7.5430794e-6,main,Same building
+S02_00066,no,NA,No peaks,S02,NA,S,NA,7/8/20,An. gambiae SS,Freshly fed,kitchen,negative,NA,NA,No match
+S02_00097,no,NA,No peaks,S02,NA,S,NA,5/19/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,NA,No match
+M17_00181,no,NA,No peaks,M17,NA,M,NA,8/17/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+S04_00092,no,NA,No,S04,NA,S,NA,5/26/21,An. gambiae SS,Freshly fed,main,NA,NA,NA,No match
+K13_00217,no,NA,No peaks,K13,NA,K,NA,6/14/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M14_00123,yes,M14_6,No,M14,M14,M,M,6/22/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+K01_00199,no,NA,No peaks,K01,NA,K,NA,6/14/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+K16_00016,no,NA,No peaks,K16,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+K03_00092,no,NA,No peaks,K03,NA,K,NA,3/29/21,Undetermined,Freshly fed,main,negative,NA,NA,No match
+S08_00042,no,NA,No peaks,S08,NA,S,NA,6/30/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+S09_00061,yes,S09_5,No,S09,S09,S,S,5/26/21,An. gambiae SS,Freshly fed,main,NA,NA,simba,Same household
+S04_00126,no,NA,No peaks,S04,NA,S,NA,6/16/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+K13_00156,no,NA,No peaks,K13,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M17_00105,yes,M17_4,No,M17,M17,M,M,5/18/21,An. gambiae SS,Freshly fed,simba,positive,3.30444025e-4,simba,Same building
+K05_00177,yes,K05_1,Yes,K05,K05,K,K,4/26/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+K05_00177,yes,K05_7,Yes,K05,K05,K,K,4/26/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M16_00329,yes,M16_4,No,M16,M16,M,M,6/22/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M01_00339,yes,M01_3,No,M01,M01,M,M,6/15/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M17_00110,yes,M17_1,No,M17,M17,M,M,5/25/21,An. funestus,Freshly fed,main,NA,NA,main,Same building
+K02_00134,yes,K02_7,No,K02,K02,K,K,10/19/20,An. funestus,Freshly fed,main,negative,NA,main,Same building
+K11_00077,yes,K11_5-K13_12,No,K11,K11,K,K,5/17/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,Same household
+M06_0204,no,NA,No peaks,M06,NA,M,NA,6/22/21,An. funestus,Freshly fed,main,positive,0.001275997,NA,No match
+M09_00486,yes,M09_4,No,M09,M09,M,M,6/29/21,An. funestus,Freshly fed,main,positive,0.002930618,main,Same building
+M17_00098,yes,M17_4,No,M17,M17,M,M,5/18/21,An. funestus,Freshly fed,simba,positive,3.536312e-6,simba,Same building
+K02_00209,no,NA,No,K02,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,main,positive,0.001228576,NA,No match
+N08_00021,yes,N08_3,No,N08,N08,N,N,6/24/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M16_00346,yes,M16_8,No,M16,M16,M,M,6/22/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+S06_00054,yes,S06_6,No,S06,S06,S,S,5/19/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M16_00147,yes,M16_6,No,M16,M16,M,M,4/20/21,An. gambiae SS,Freshly fed,simba,NA,NA,simba,Same building
+L12_00022,yes,L12_3,No,L12,L12,L,L,8/27/21,An. gambiae SS,Freshly fed,main,negative,NA,simba,Same household
+S04_00099,yes,S04_6,Yes,S04,S04,S,S,5/26/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+S04_00099,yes,S04_8,Yes,S04,S04,S,S,5/26/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+L08_00020,yes,L08_6,Yes,L08,L08,L,L,4/30/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+L08_00020,yes,L08_9,Yes,L08,L08,L,L,4/30/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+K01_00163,no,NA,No peaks,K01,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M16_00324,yes,M16_8,No,M16,M16,M,M,6/22/21,Undetermined,Freshly fed,main,negative,NA,main,Same building
+S01_00104,no,NA,No peaks,S01,NA,S,NA,11/4/20,An. gambiae SS,Freshly fed,kitchen,negative,NA,NA,No match
+S10_00101,no,NA,No peaks,S10,NA,S,NA,6/16/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+M13_00150,yes,M13_18,No,M13,M13,M,M,6/15/21,An. funestus,Freshly fed,main,negative,NA,simba,Same household
+M01_00388,yes,M01_5,No,M01,M01,M,M,6/22/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+L18_00010,no,NA,No,L18,NA,L,NA,5/7/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+K09_00063,no,NA,No peaks,K09,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+K04_00053,yes,K04_1,No,K04,K04,K,K,6/14/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+K10_00100,no,NA,No,K10,NA,K,NA,5/24/21,An. gambiae SL,Freshly fed,main,negative,NA,NA,No match
+N03_00001,no,NA,No peaks,N03,NA,N,NA,1/7/21,An. demeilloni,Freshly fed,main,negative,NA,NA,No match
+M07_00422,yes,M07_7,No,M07,M07,M,M,2/23/21,An. funestus,Freshly fed,main,negative,NA,main,Same building
+M07_0581,no,NA,No,M07,NA,M,NA,6/15/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+M09_0359,no,NA,No peaks,M09,NA,M,NA,4/27/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+S02_00073,no,NA,Yes,S02,NA,S,NA,2/17/21,An. gambiae SS,Freshly fed,simba,negative,NA,NA,No match
+M09_0439,yes,M09_5,No,M09,M09,M,M,6/15/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+K12_00142,no,NA,No peaks,K12,NA,K,NA,5/24/21,An. gambiae SS,Freshly fed,main,negative,NA,NA,No match
+S16_00043,yes,S16_3,No,S16,S16,S,S,6/30/21,An. gambiae SS,Freshly fed,main,positive,0.006693329,simba,Same household
+L16_00020,no,NA,No,L16,NA,L,NA,2/26/21,An. demeilloni,Freshly fed,main,negative,NA,NA,No match
+M06_0188,yes,M06_1,No,M06,M06,M,M,6/15/21,An. funestus,Freshly fed,main,positive,5.84882695e-4,main,Same building
+S04_00094,yes,S04_8,No,S04,S04,S,S,5/26/21,Undetermined,Freshly fed,main,NA,NA,main,Same building
+S02_00106,yes,S02_4,No,S02,S02,S,S,5/19/21,An. gambiae SS,Freshly fed,kitchen,negative,NA,kitchen,Same building
+K02_00229,no,NA,No peaks,K02,NA,K,NA,6/21/21,An. gambiae SS,Freshly fed,simba1,negative,NA,NA,No match
+K05_00173,yes,K05_1,Yes,K05,K05,K,K,4/26/21,An. gambiae SS,Freshly fed,main,negative,NA,main,Same building
+M05_00152,no,NA,No,M05,NA,M,NA,8/24/21,An. funestus,Freshly fed,main,negative,NA,NA,No match
+K13_00232,yes,K16_5,No,K13,K16,K,K,6/28/21,An. gambiae SS,Freshly fed,main,positive,0.001642613,main,Same village
