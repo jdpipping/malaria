@@ -1,6 +1,8 @@
 # Malaria Transmission Analyses
+
 Analyses of malaria transmission and bed-net use using the Once Bitten and P(TE) cohort data.
 
+```text
 malaria/
 ├── drive/
 │   ├── P(TE) Data (2017-2018)/
@@ -36,3 +38,4 @@ malaria/
 │   └── thoughts.pdf
 │
 └── README.md
+```
