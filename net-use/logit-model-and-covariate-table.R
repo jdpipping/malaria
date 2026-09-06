@@ -1,8 +1,8 @@
 library(tidyverse)
 library(lubridate)
 
-cohort_path <- "data/raw/malaria/OnceBittenMalariaCohort_jul2020-sep2021_withhaps.csv"
-mosquito_path <- "data/raw/malaria/OnceBittenMosquito-Immediately processed summary.csv"
+cohort_path <- "drive/OnceBittenMalariaCohort_jul2020-sep2021_withhaps.csv"
+mosquito_path <- "drive/OnceBittenMosquito-Immediately processed summary.csv"
 score_path <- "data/processed/drop-ssnet-net-use-surprise-scores.csv"
 summary_path <- "data/processed/drop-ssnet-net-use-surprise-summary.csv"
 
